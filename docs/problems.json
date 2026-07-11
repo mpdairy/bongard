@@ -1,0 +1,3287 @@
+[
+ {
+  "num": 1,
+  "page": "bongard/p001.htm",
+  "designer": "M. M. Bongard",
+  "left": "Empty picture",
+  "right": "Not empty picture",
+  "image": "bongard/p001.gif"
+ },
+ {
+  "num": 2,
+  "page": "bongard/p002.htm",
+  "designer": "M. M. Bongard",
+  "left": "Large figures",
+  "right": "Small figures",
+  "image": "bongard/p002.gif"
+ },
+ {
+  "num": 3,
+  "page": "bongard/p003.htm",
+  "designer": "M. M. Bongard",
+  "left": "Outline figures",
+  "right": "Solid figures",
+  "image": "bongard/p003.gif"
+ },
+ {
+  "num": 4,
+  "page": "bongard/p004.htm",
+  "designer": "M. M. Bongard",
+  "left": "Convex figures",
+  "right": "Nonconvex figures",
+  "image": "bongard/p004.gif"
+ },
+ {
+  "num": 5,
+  "page": "bongard/p005.htm",
+  "designer": "M. M. Bongard",
+  "left": "Polygons",
+  "right": "Curvilinear figures",
+  "image": "bongard/p005.gif"
+ },
+ {
+  "num": 6,
+  "page": "bongard/p006.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangles",
+  "right": "Quadrangles",
+  "image": "bongard/p006.gif"
+ },
+ {
+  "num": 7,
+  "page": "bongard/p007.htm",
+  "designer": "M. M. Bongard",
+  "left": "Figures elongated vertically",
+  "right": "Figures elongated horizontally",
+  "image": "bongard/p007.gif"
+ },
+ {
+  "num": 8,
+  "page": "bongard/p008.htm",
+  "designer": "M. M. Bongard",
+  "left": "Figures on the right side",
+  "right": "Figures on the left side",
+  "image": "bongard/p008.gif"
+ },
+ {
+  "num": 9,
+  "page": "bongard/p009.htm",
+  "designer": "M. M. Bongard",
+  "left": "Smooth contour figures",
+  "right": "Twisting contour figures",
+  "image": "bongard/p009.gif"
+ },
+ {
+  "num": 10,
+  "page": "bongard/p010.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangles",
+  "right": "Quadrangles",
+  "image": "bongard/p010.gif"
+ },
+ {
+  "num": 11,
+  "page": "bongard/p011.htm",
+  "designer": "M. M. Bongard",
+  "left": "Elongated figures",
+  "right": "Compact figures",
+  "image": "bongard/p011.gif"
+ },
+ {
+  "num": 12,
+  "page": "bongard/p012.htm",
+  "designer": "M. M. Bongard",
+  "left": "Convex hull of figure elongated",
+  "right": "Convex hull of figure compact",
+  "image": "bongard/p012.gif"
+ },
+ {
+  "num": 13,
+  "page": "bongard/p013.htm",
+  "designer": "M. M. Bongard",
+  "left": "Vertical rectangles or horizontal ellipses",
+  "right": "Vertical ellipses or horizontal rectangles",
+  "image": "bongard/p013.gif"
+ },
+ {
+  "num": 14,
+  "page": "bongard/p014.htm",
+  "designer": "M. M. Bongard",
+  "left": "Large total line length",
+  "right": "Small total line length",
+  "image": "bongard/p014.gif"
+ },
+ {
+  "num": 15,
+  "page": "bongard/p015.htm",
+  "designer": "M. M. Bongard",
+  "left": "Closed lines",
+  "right": "Open lines",
+  "image": "bongard/p015.gif"
+ },
+ {
+  "num": 16,
+  "page": "bongard/p016.htm",
+  "designer": "M. M. Bongard",
+  "left": "Spiral curls counterclockwise",
+  "right": "Spiral curls clockwise",
+  "image": "bongard/p016.gif"
+ },
+ {
+  "num": 17,
+  "page": "bongard/p017.htm",
+  "designer": "M. M. Bongard",
+  "left": "An acute angle directed inward",
+  "right": "No angle directed inward",
+  "image": "bongard/p017.gif"
+ },
+ {
+  "num": 18,
+  "page": "bongard/p018.htm",
+  "designer": "M. M. Bongard",
+  "left": "A neck",
+  "right": "No neck",
+  "image": "bongard/p018.gif"
+ },
+ {
+  "num": 19,
+  "page": "bongard/p019.htm",
+  "designer": "M. M. Bongard",
+  "left": "Neck horizontal",
+  "right": "Neck vertical",
+  "image": "bongard/p019.gif"
+ },
+ {
+  "num": 20,
+  "page": "bongard/p020.htm",
+  "designer": "M. M. Bongard",
+  "left": "Points located on one side of the neck",
+  "right": "Points located on both sides of the neck",
+  "image": "bongard/p020.gif"
+ },
+ {
+  "num": 21,
+  "page": "bongard/p021.htm",
+  "designer": "M. M. Bongard",
+  "left": "Small figure present",
+  "right": "No small figure present",
+  "image": "bongard/p021.gif"
+ },
+ {
+  "num": 22,
+  "page": "bongard/p022.htm",
+  "designer": "M. M. Bongard",
+  "left": "Areas of figures approximately equal",
+  "right": "Areas of figures differ greatly",
+  "image": "bongard/p022.gif"
+ },
+ {
+  "num": 23,
+  "page": "bongard/p023.htm",
+  "designer": "M. M. Bongard",
+  "left": "One figure",
+  "right": "Two figures",
+  "image": "bongard/p023.gif"
+ },
+ {
+  "num": 24,
+  "page": "bongard/p024.htm",
+  "designer": "M. M. Bongard",
+  "left": "A circle",
+  "right": "No circle",
+  "image": "bongard/p024.gif"
+ },
+ {
+  "num": 25,
+  "page": "bongard/p025.htm",
+  "designer": "M. M. Bongard",
+  "left": "Black figure is a triangle",
+  "right": "Black figure is a circle",
+  "image": "bongard/p025.gif"
+ },
+ {
+  "num": 26,
+  "page": "bongard/p026.htm",
+  "designer": "M. M. Bongard",
+  "left": "Solid black triangle",
+  "right": "No solid black triangle",
+  "image": "bongard/p026.gif"
+ },
+ {
+  "num": 27,
+  "page": "bongard/p027.htm",
+  "designer": "M. M. Bongard",
+  "left": "More solid black figures",
+  "right": "More outline figures",
+  "image": "bongard/p027.gif"
+ },
+ {
+  "num": 28,
+  "page": "bongard/p028.htm",
+  "designer": "M. M. Bongard",
+  "left": "More solid black circles",
+  "right": "More outline circles",
+  "image": "bongard/p028.gif"
+ },
+ {
+  "num": 29,
+  "page": "bongard/p029.htm",
+  "designer": "M. M. Bongard",
+  "left": "There are more small circles inside the figure outline than outside",
+  "right": "There are fewer small circles inside the figure outline than outside",
+  "image": "bongard/p029.gif"
+ },
+ {
+  "num": 30,
+  "page": "bongard/p030.htm",
+  "designer": "M. M. Bongard",
+  "left": "A line with a self-crossing",
+  "right": "A line without a self-crossing",
+  "image": "bongard/p030.gif"
+ },
+ {
+  "num": 31,
+  "page": "bongard/p031.htm",
+  "designer": "M. M. Bongard",
+  "left": "One line",
+  "right": "Two lines",
+  "image": "bongard/p031.gif"
+ },
+ {
+  "num": 32,
+  "page": "bongard/p032.htm",
+  "designer": "M. M. Bongard",
+  "left": "A sharp projection",
+  "right": "No sharp projection",
+  "image": "bongard/p032.gif"
+ },
+ {
+  "num": 33,
+  "page": "bongard/p033.htm",
+  "designer": "M. M. Bongard",
+  "left": "Acute angle",
+  "right": "No acute angle",
+  "image": "bongard/p033.gif"
+ },
+ {
+  "num": 34,
+  "page": "bongard/p034.htm",
+  "designer": "M. M. Bongard",
+  "left": "A large hole",
+  "right": "A small hole",
+  "image": "bongard/p034.gif"
+ },
+ {
+  "num": 35,
+  "page": "bongard/p035.htm",
+  "designer": "M. M. Bongard",
+  "left": "The axis of the hole is parallel to the figure axis",
+  "right": "The axis of the hole is perpendicular to the figure axis",
+  "image": "bongard/p035.gif"
+ },
+ {
+  "num": 36,
+  "page": "bongard/p036.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangle above circle",
+  "right": "Circle above triangle",
+  "image": "bongard/p036.gif"
+ },
+ {
+  "num": 37,
+  "page": "bongard/p037.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangle above circle",
+  "right": "Circle above triangle",
+  "image": "bongard/p037.gif"
+ },
+ {
+  "num": 38,
+  "page": "bongard/p038.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangle larger than circle",
+  "right": "Triangle smaller than circle",
+  "image": "bongard/p038.gif"
+ },
+ {
+  "num": 39,
+  "page": "bongard/p039.htm",
+  "designer": "M. M. Bongard",
+  "left": "Segments almost parallel to each other",
+  "right": "Large angles between segments",
+  "image": "bongard/p039.gif"
+ },
+ {
+  "num": 40,
+  "page": "bongard/p040.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three points on a straight line",
+  "right": "No three points on a straight line",
+  "image": "bongard/p040.gif"
+ },
+ {
+  "num": 41,
+  "page": "bongard/p041.htm",
+  "designer": "M. M. Bongard",
+  "left": "Outline circles on one straight line",
+  "right": "Outline circles not on one straight line",
+  "image": "bongard/p041.gif"
+ },
+ {
+  "num": 42,
+  "page": "bongard/p042.htm",
+  "designer": "M. M. Bongard",
+  "left": "Points inside the figure outline are on a straight line",
+  "right": "Points inside the figure outline are not on a straight line",
+  "image": "bongard/p042.gif"
+ },
+ {
+  "num": 43,
+  "page": "bongard/p043.htm",
+  "designer": "M. M. Bongard",
+  "left": "The vibration amplitude increases from left to right",
+  "right": "The vibration amplitude decreases from left to right",
+  "image": "bongard/p043.gif"
+ },
+ {
+  "num": 44,
+  "page": "bongard/p044.htm",
+  "designer": "M. M. Bongard",
+  "left": "Small circles on different arcs",
+  "right": "Small circles on one arc",
+  "image": "bongard/p044.gif"
+ },
+ {
+  "num": 45,
+  "page": "bongard/p045.htm",
+  "designer": "M. M. Bongard",
+  "left": "Outline figure on top of solid black figure",
+  "right": "Black figure on top of outline figure",
+  "image": "bongard/p045.gif"
+ },
+ {
+  "num": 46,
+  "page": "bongard/p046.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangle on top of the circle",
+  "right": "Circle on top of the triangle",
+  "image": "bongard/p046.gif"
+ },
+ {
+  "num": 47,
+  "page": "bongard/p047.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangle inside of the circle",
+  "right": "Circle inside of the triangle",
+  "image": "bongard/p047.gif"
+ },
+ {
+  "num": 48,
+  "page": "bongard/p048.htm",
+  "designer": "M. M. Bongard",
+  "left": "Solid dark figures above the outline figures",
+  "right": "Outline figures above the solid dark figures",
+  "image": "bongard/p048.gif"
+ },
+ {
+  "num": 49,
+  "page": "bongard/p049.htm",
+  "designer": "M. M. Bongard",
+  "left": "Points inside the figure outline are grouped more densely than outside the contour",
+  "right": "Points outside the figure contour are grouped more densely than inside the contour",
+  "image": "bongard/p049.gif"
+ },
+ {
+  "num": 50,
+  "page": "bongard/p050.htm",
+  "designer": "M. M. Bongard",
+  "left": "Axes of symmetry",
+  "right": "No axes of symmetry",
+  "image": "bongard/p050.gif"
+ },
+ {
+  "num": 51,
+  "page": "bongard/p051.htm",
+  "designer": "M. M. Bongard",
+  "left": "Two circles close to each other",
+  "right": "No two circles close to each other",
+  "image": "bongard/p051.gif"
+ },
+ {
+  "num": 52,
+  "page": "bongard/p052.htm",
+  "designer": "M. M. Bongard",
+  "left": "Arrows pointing in different directions",
+  "right": "Arrows pointing in the same direction",
+  "image": "bongard/p052.gif"
+ },
+ {
+  "num": 53,
+  "page": "bongard/p053.htm",
+  "designer": "M. M. Bongard",
+  "left": "Inside figure has fewer angles than outside figure",
+  "right": "Inside figure has more angles than outside figure",
+  "image": "bongard/p053.gif"
+ },
+ {
+  "num": 54,
+  "page": "bongard/p054.htm",
+  "designer": "M. M. Bongard",
+  "left": "A cross, circle, and triangle arranged counterclockwise",
+  "right": "A cross, circle, and triangle arranged clockwise",
+  "image": "bongard/p054.gif"
+ },
+ {
+  "num": 55,
+  "page": "bongard/p055.htm",
+  "designer": "M. M. Bongard",
+  "left": "A circle is at the left of the cavity if you look from inside the figure",
+  "right": "A circle is at the right of the cavity if you look from inside the figure",
+  "image": "bongard/p055.gif"
+ },
+ {
+  "num": 56,
+  "page": "bongard/p056.htm",
+  "designer": "M. M. Bongard",
+  "left": "All figures of the same color",
+  "right": "Figures of different colors",
+  "image": "bongard/p056.gif"
+ },
+ {
+  "num": 57,
+  "page": "bongard/p057.htm",
+  "designer": "M. M. Bongard",
+  "left": "Identical figures",
+  "right": "Figures not identical",
+  "image": "bongard/p057.gif"
+ },
+ {
+  "num": 58,
+  "page": "bongard/p058.htm",
+  "designer": "M. M. Bongard",
+  "left": "Solid dark quadrangles are identical",
+  "right": "Solid dark quadrangles are different",
+  "image": "bongard/p058.gif"
+ },
+ {
+  "num": 59,
+  "page": "bongard/p059.htm",
+  "designer": "M. M. Bongard",
+  "left": "Figures are similar",
+  "right": "Figures are not similar",
+  "image": "bongard/p059.gif"
+ },
+ {
+  "num": 60,
+  "page": "bongard/p060.htm",
+  "designer": "M. M. Bongard",
+  "left": "Some similar figures",
+  "right": "No similar figures",
+  "image": "bongard/p060.gif"
+ },
+ {
+  "num": 61,
+  "page": "bongard/p061.htm",
+  "designer": "M. M. Bongard",
+  "left": "A line separates the crosses in half",
+  "right": "A line does not separate the crosses in half",
+  "image": "bongard/p061.gif"
+ },
+ {
+  "num": 62,
+  "page": "bongard/p062.htm",
+  "designer": "M. M. Bongard",
+  "left": "Ends of the curve are far apart",
+  "right": "Ends of the curve are close together",
+  "image": "bongard/p062.gif"
+ },
+ {
+  "num": 63,
+  "page": "bongard/p063.htm",
+  "designer": "M. M. Bongard",
+  "left": "Shading thicker on the right side",
+  "right": "Shading thicker on the left side",
+  "image": "bongard/p063.gif"
+ },
+ {
+  "num": 64,
+  "page": "bongard/p064.htm",
+  "designer": "M. M. Bongard",
+  "left": "A cross is located on the extension of the ellipse axis",
+  "right": "A circle is located on the extension of the ellipse axis",
+  "image": "bongard/p064.gif"
+ },
+ {
+  "num": 65,
+  "page": "bongard/p065.htm",
+  "designer": "M. M. Bongard",
+  "left": "A set of triangles elongated horizontally",
+  "right": "A set of triangles elongated vertically",
+  "image": "bongard/p065.gif"
+ },
+ {
+  "num": 66,
+  "page": "bongard/p066.htm",
+  "designer": "M. M. Bongard",
+  "left": "Unconnected circles on a horizontal line",
+  "right": "Unconnected circles on a vertical line",
+  "image": "bongard/p066.gif"
+ },
+ {
+  "num": 67,
+  "page": "bongard/p067.htm",
+  "designer": "M. M. Bongard",
+  "left": "The right branch begins at a higher point than the left branch",
+  "right": "The right branch begins at a lower point than the left branch",
+  "image": "bongard/p067.gif"
+ },
+ {
+  "num": 68,
+  "page": "bongard/p068.htm",
+  "designer": "M. M. Bongard",
+  "left": "The end of the right branch is higher than that of the left branch",
+  "right": "The end of the right branch is lower than that of the left branch",
+  "image": "bongard/p068.gif"
+ },
+ {
+  "num": 69,
+  "page": "bongard/p069.htm",
+  "designer": "M. M. Bongard",
+  "left": "Large black dot on the main branch",
+  "right": "Large black dot on a side branch",
+  "image": "bongard/p069.gif"
+ },
+ {
+  "num": 70,
+  "page": "bongard/p070.htm",
+  "designer": "M. M. Bongard",
+  "left": "There are no side branches of the second order",
+  "right": "There are side branches of the second order",
+  "image": "bongard/p070.gif"
+ },
+ {
+  "num": 71,
+  "page": "bongard/p071.htm",
+  "designer": "M. M. Bongard",
+  "left": "There are inside figures of the second order",
+  "right": "There are no inside figures of the second order",
+  "image": "bongard/p071.gif"
+ },
+ {
+  "num": 72,
+  "page": "bongard/p072.htm",
+  "designer": "M. M. Bongard",
+  "left": "Ends of the curve are parallel",
+  "right": "Ends of the curve are perpendicular",
+  "image": "bongard/p072.gif"
+ },
+ {
+  "num": 73,
+  "page": "bongard/p073.htm",
+  "designer": "M. M. Bongard",
+  "left": "The long axes of the ellipse and rectangle are perpendicular",
+  "right": "The long axes of the ellipse and rectangle are parallel",
+  "image": "bongard/p073.gif"
+ },
+ {
+  "num": 74,
+  "page": "bongard/p074.htm",
+  "designer": "M. M. Bongard",
+  "left": "A tail grows from the obtuse end",
+  "right": "A tail grows from the acute end",
+  "image": "bongard/p074.gif"
+ },
+ {
+  "num": 75,
+  "page": "bongard/p075.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangle located at the concave side of an arc",
+  "right": "Triangle located at the convex side of an arc",
+  "image": "bongard/p075.gif"
+ },
+ {
+  "num": 76,
+  "page": "bongard/p076.htm",
+  "designer": "M. M. Bongard",
+  "left": "Long sides concave",
+  "right": "Long sides convex",
+  "image": "bongard/p076.gif"
+ },
+ {
+  "num": 77,
+  "page": "bongard/p077.htm",
+  "designer": "M. M. Bongard",
+  "left": "Angle divided in half",
+  "right": "Angle not divided in half",
+  "image": "bongard/p077.gif"
+ },
+ {
+  "num": 78,
+  "page": "bongard/p078.htm",
+  "designer": "M. M. Bongard",
+  "left": "Extensions of segments cross at one point",
+  "right": "Extensions of segments do not cross at one point",
+  "image": "bongard/p078.gif"
+ },
+ {
+  "num": 79,
+  "page": "bongard/p079.htm",
+  "designer": "M. M. Bongard",
+  "left": "A dark circle is closer to the outline circle than to the triangle",
+  "right": "A dark circle is closer to the triangle than to the outline circle",
+  "image": "bongard/p079.gif"
+ },
+ {
+  "num": 80,
+  "page": "bongard/p080.htm",
+  "designer": "M. M. Bongard",
+  "left": "Points located at the same distances from a cross",
+  "right": "Points located at different distances from a cross",
+  "image": "bongard/p080.gif"
+ },
+ {
+  "num": 81,
+  "page": "bongard/p081.htm",
+  "designer": "M. M. Bongard",
+  "left": "Dark figures can be divided from outline figures by a straight line alternatively: Convex hulls of filled and outline figures are disjoint",
+  "right": "Dark figures are impossible to separate from the outline ones alternatively: Convex hulls of filled and outline figures overlap",
+  "image": "bongard/p081.gif"
+ },
+ {
+  "num": 82,
+  "page": "bongard/p082.htm",
+  "designer": "M. M. Bongard",
+  "left": "The convex hull of the crosses forms an equilateral triangle",
+  "right": "The convex hull of the crosses does not form an equilateral triangle",
+  "image": "bongard/p082.gif"
+ },
+ {
+  "num": 83,
+  "page": "bongard/p083.htm",
+  "designer": "M. M. Bongard",
+  "left": "A circle is inside of a figure made by crosses",
+  "right": "A circle is outside of a figure made by crosses",
+  "image": "bongard/p083.gif"
+ },
+ {
+  "num": 84,
+  "page": "bongard/p084.htm",
+  "designer": "M. M. Bongard",
+  "left": "A quadrangle is outside of a figure made by circles",
+  "right": "A quadrangle is inside of a figure made by circles",
+  "image": "bongard/p084.gif"
+ },
+ {
+  "num": 85,
+  "page": "bongard/p085.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three parts",
+  "right": "Five parts",
+  "image": "bongard/p085.gif"
+ },
+ {
+  "num": 86,
+  "page": "bongard/p086.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three parts",
+  "right": "Five parts",
+  "image": "bongard/p086.gif"
+ },
+ {
+  "num": 87,
+  "page": "bongard/p087.htm",
+  "designer": "M. M. Bongard",
+  "left": "Four parts",
+  "right": "Five parts",
+  "image": "bongard/p087.gif"
+ },
+ {
+  "num": 88,
+  "page": "bongard/p088.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three parts",
+  "right": "Five parts",
+  "image": "bongard/p088.gif"
+ },
+ {
+  "num": 89,
+  "page": "bongard/p089.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three parts",
+  "right": "Five parts",
+  "image": "bongard/p089.gif"
+ },
+ {
+  "num": 90,
+  "page": "bongard/p090.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three parts",
+  "right": "Four parts",
+  "image": "bongard/p090.gif"
+ },
+ {
+  "num": 91,
+  "page": "bongard/p091.htm",
+  "designer": "M. M. Bongard",
+  "left": "Three identical elements",
+  "right": "Four identical elements",
+  "image": "bongard/p091.gif"
+ },
+ {
+  "num": 92,
+  "page": "bongard/p092.htm",
+  "designer": "M. M. Bongard",
+  "left": "The chain does not branch",
+  "right": "The chain branches",
+  "image": "bongard/p092.gif"
+ },
+ {
+  "num": 93,
+  "page": "bongard/p093.htm",
+  "designer": "M. M. Bongard",
+  "left": "Branches at outlined circle",
+  "right": "Branches at solid dark circle",
+  "image": "bongard/p093.gif"
+ },
+ {
+  "num": 94,
+  "page": "bongard/p094.htm",
+  "designer": "M. M. Bongard",
+  "left": "Solid dark circle not at end",
+  "right": "Solid dark circle at end",
+  "image": "bongard/p094.gif"
+ },
+ {
+  "num": 95,
+  "page": "bongard/p095.htm",
+  "designer": "M. M. Bongard",
+  "left": "Vertical hatched lines",
+  "right": "Horizontal hatched lines",
+  "image": "bongard/p095.gif"
+ },
+ {
+  "num": 96,
+  "page": "bongard/p096.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangles",
+  "right": "Quadrangles",
+  "image": "bongard/p096.gif"
+ },
+ {
+  "num": 97,
+  "page": "bongard/p097.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangles",
+  "right": "Circles",
+  "image": "bongard/p097.gif"
+ },
+ {
+  "num": 98,
+  "page": "bongard/p098.htm",
+  "designer": "M. M. Bongard",
+  "left": "Triangles",
+  "right": "Quadrangles",
+  "image": "bongard/p098.gif"
+ },
+ {
+  "num": 99,
+  "page": "bongard/p099.htm",
+  "designer": "M. M. Bongard",
+  "left": "Outlines made by triangles and circles intersect",
+  "right": "Outlines made by triangles and circles do not intersect",
+  "image": "bongard/p099.gif"
+ },
+ {
+  "num": 100,
+  "page": "bongard/p100.htm",
+  "designer": "M. M. Bongard",
+  "left": "The letter А",
+  "right": "The letter Б",
+  "image": "bongard/p100.gif"
+ },
+ {
+  "num": 101,
+  "page": "doughof/p101.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Parallel dents",
+  "right": "Perpendicular dents",
+  "image": "doughof/p101.gif"
+ },
+ {
+  "num": 102,
+  "page": "doughof/p102.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Internal arrows point outward",
+  "right": "Internal arrows point inward",
+  "image": "doughof/p102.gif"
+ },
+ {
+  "num": 103,
+  "page": "doughof/p103.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Isosceles triangle",
+  "right": "Scalene triangle",
+  "image": "doughof/p103.gif"
+ },
+ {
+  "num": 104,
+  "page": "doughof/p104.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "One circle passes through the center of the other circle",
+  "right": "No circle passes through the center of the other circle",
+  "image": "doughof/p104.gif"
+ },
+ {
+  "num": 105,
+  "page": "doughof/p105.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Ends of line point to the same direction",
+  "right": "Ends of line point to opposite directions",
+  "image": "doughof/p105.gif"
+ },
+ {
+  "num": 106,
+  "page": "doughof/p106.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Negative slope",
+  "right": "Positive slope",
+  "image": "doughof/p106.gif"
+ },
+ {
+  "num": 107,
+  "page": "doughof/p107.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Three simple lines",
+  "right": "Three complex lines",
+  "image": "doughof/p107.gif"
+ },
+ {
+  "num": 108,
+  "page": "doughof/p108.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Petals taper off",
+  "right": "Petals thicken",
+  "image": "doughof/p108.gif"
+ },
+ {
+  "num": 109,
+  "page": "doughof/p109.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Circle on the right of the box",
+  "right": "Circle on the left of the box",
+  "image": "doughof/p109.gif"
+ },
+ {
+  "num": 110,
+  "page": "doughof/p110.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Four out of five objects are circles",
+  "right": "Never four out of five objects are circles",
+  "image": "doughof/p110.gif"
+ },
+ {
+  "num": 111,
+  "page": "doughof/p111.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Middle shape is a triangle",
+  "right": "Middle shape is not a triangle",
+  "image": "doughof/p111.gif"
+ },
+ {
+  "num": 112,
+  "page": "doughof/p112.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "X-coordinates of dots are equidistant",
+  "right": "Y-coordinates of dots are equidistant",
+  "image": "doughof/p112.gif"
+ },
+ {
+  "num": 113,
+  "page": "doughof/p113.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "T-like junction",
+  "right": "Y-like junction",
+  "image": "doughof/p113.gif"
+ },
+ {
+  "num": 114,
+  "page": "doughof/p114.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Four X-like points",
+  "right": "Two X-like points",
+  "image": "doughof/p114.gif"
+ },
+ {
+  "num": 115,
+  "page": "doughof/p115.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Innermost shape is reachable from the outermost one",
+  "right": "Innermost shape is unreachable from the outermost one",
+  "image": "doughof/p115.gif"
+ },
+ {
+  "num": 116,
+  "page": "doughof/p116.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Polygon stands on side",
+  "right": "Polygon stands on vertex",
+  "image": "doughof/p116.gif"
+ },
+ {
+  "num": 117,
+  "page": "doughof/p117.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Triangle points to center of circle",
+  "right": "Triangle does not point to center of circle",
+  "image": "doughof/p117.gif"
+ },
+ {
+  "num": 118,
+  "page": "doughof/p118.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "No cycle",
+  "right": "A cycle exists",
+  "image": "doughof/p118.gif"
+ },
+ {
+  "num": 119,
+  "page": "doughof/p119.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "A small correction will result into a single circle",
+  "right": "No small correction will result into a single circle",
+  "image": "doughof/p119.gif"
+ },
+ {
+  "num": 120,
+  "page": "doughof/p120.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "All turns are in one direction alternatively: Rectangular loop exists",
+  "right": "Turns are not all in one direction alternatively: No rectangular loop",
+  "image": "doughof/p120.gif"
+ },
+ {
+  "num": 121,
+  "page": "doughof/p121.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Circle: VV; square: V Λ ; triangle: ΛΛ ; blank: Λ V",
+  "right": "Circle: ΛΛ ; square: Λ V; triangle: VV; blank: V Λ",
+  "image": "doughof/p121.gif"
+ },
+ {
+  "num": 122,
+  "page": "doughof/p122.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Line divides interior into two regions",
+  "right": "Not so",
+  "image": "doughof/p122.gif"
+ },
+ {
+  "num": 123,
+  "page": "doughof/p123.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Similar shapes",
+  "right": "Dissimilar shapes",
+  "image": "doughof/p123.gif"
+ },
+ {
+  "num": 124,
+  "page": "doughof/p124.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Similar textures",
+  "right": "Dissimilar textures",
+  "image": "doughof/p124.gif"
+ },
+ {
+  "num": 125,
+  "page": "doughof/p125.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "One protrusion and one indentation of the same shape",
+  "right": "Not so",
+  "image": "doughof/p125.gif"
+ },
+ {
+  "num": 126,
+  "page": "doughof/p126.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "One large and one small object",
+  "right": "Not so",
+  "image": "doughof/p126.gif"
+ },
+ {
+  "num": 127,
+  "page": "doughof/p127.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Exactly one circle",
+  "right": "Not exactly one circle",
+  "image": "doughof/p127.gif"
+ },
+ {
+  "num": 128,
+  "page": "doughof/p128.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Same objects inside and outside the large shape",
+  "right": "Not same objects inside and outside the large shape",
+  "image": "doughof/p128.gif"
+ },
+ {
+  "num": 129,
+  "page": "doughof/p129.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Indentation on protrusion",
+  "right": "Indentation on indentation",
+  "image": "doughof/p129.gif"
+ },
+ {
+  "num": 130,
+  "page": "doughof/p130.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Closed region is made of curves if “flaws” are ignored",
+  "right": "Closed region is a polygon if “flaws” are ignored",
+  "image": "doughof/p130.gif"
+ },
+ {
+  "num": 131,
+  "page": "doughof/p131.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Dots are vertices of a parallelogram",
+  "right": "Dots are not vertices of a parallelogram",
+  "image": "doughof/p131.gif"
+ },
+ {
+  "num": 132,
+  "page": "doughof/p132.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Dots are vertices of a triangle standing on a side",
+  "right": "Dots are vertices of a triangle standing on a vertex",
+  "image": "doughof/p132.gif"
+ },
+ {
+  "num": 133,
+  "page": "doughof/p133.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Dots collinear with center of circle",
+  "right": "Dots not collinear with center of circle",
+  "image": "doughof/p133.gif"
+ },
+ {
+  "num": 134,
+  "page": "doughof/p134.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Circle centers are collinear",
+  "right": "Circle centers are not collinear",
+  "image": "doughof/p134.gif"
+ },
+ {
+  "num": 135,
+  "page": "doughof/p135.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Circles on same side of curve",
+  "right": "Circles on different sides of curves",
+  "image": "doughof/p135.gif"
+ },
+ {
+  "num": 136,
+  "page": "doughof/p136.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Concave shape",
+  "right": "Convex shape",
+  "image": "doughof/p136.gif"
+ },
+ {
+  "num": 137,
+  "page": "doughof/p137.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Dots equal in number to the sides of the closed region",
+  "right": "Dots unequal in number to the sides of the closed region",
+  "image": "doughof/p137.gif"
+ },
+ {
+  "num": 138,
+  "page": "doughof/p138.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "No dot well within the convex hull",
+  "right": "At least one dot well within the convex hull",
+  "image": "doughof/p138.gif"
+ },
+ {
+  "num": 139,
+  "page": "doughof/p139.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Similar components that change regularly",
+  "right": "Not so",
+  "image": "doughof/p139.gif"
+ },
+ {
+  "num": 140,
+  "page": "doughof/p140.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "One large shape and two smaller identical ones",
+  "right": "Not so",
+  "image": "doughof/p140.gif"
+ },
+ {
+  "num": 141,
+  "page": "doughof/p141.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Two clusters of three and two objects each",
+  "right": "One cluster of three objects and two different objects",
+  "image": "doughof/p141.gif"
+ },
+ {
+  "num": 142,
+  "page": "doughof/p142.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Two clusters of three and two that are adjacent",
+  "right": "Two clusters of three and two that are not adjacent",
+  "image": "doughof/p142.gif"
+ },
+ {
+  "num": 143,
+  "page": "doughof/p143.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Two clusters of three and two",
+  "right": "Two clusters of four and one",
+  "image": "doughof/p143.gif"
+ },
+ {
+  "num": 144,
+  "page": "doughof/p144.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Two clusters of three and two but sharing a property alternatively: Different features yield different 3-2 splits",
+  "right": "Two clusters of three and two, separable alternatively: Different features yield the same 3-2 split",
+  "image": "doughof/p144.gif"
+ },
+ {
+  "num": 145,
+  "page": "doughof/p145.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Two clusters of four and one, the four are of same kind alternatively: Different features yield same 4-1 split",
+  "right": "Two clusters of four and one, the four are three and one alternatively: Different features yield different 4-1 splits",
+  "image": "doughof/p145.gif"
+ },
+ {
+  "num": 146,
+  "page": "doughof/p146.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "A shape contains a square if and only if it is a circle",
+  "right": "A shape contains a square if and only if it is a triangle",
+  "image": "doughof/p146.gif"
+ },
+ {
+  "num": 147,
+  "page": "doughof/p147.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Two clusters of three and two, the two are vertical",
+  "right": "Two clusters of three and two, the two are horizontal",
+  "image": "doughof/p147.gif"
+ },
+ {
+  "num": 148,
+  "page": "doughof/p148.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "A little less than a regular shape",
+  "right": "A little more than a regular shape",
+  "image": "doughof/p148.gif"
+ },
+ {
+  "num": 149,
+  "page": "doughof/p149.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Lone square",
+  "right": "Lone circle",
+  "image": "doughof/p149.gif"
+ },
+ {
+  "num": 150,
+  "page": "doughof/p150.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Odd number of squares",
+  "right": "Even number of squares",
+  "image": "doughof/p150.gif"
+ },
+ {
+  "num": 151,
+  "page": "doughof/p151.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "If the circle closest to the cross is removed, the rest form an equilateral triangle",
+  "right": "Not so",
+  "image": "doughof/p151.gif"
+ },
+ {
+  "num": 152,
+  "page": "doughof/p152.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "No vertical axis of symmetry",
+  "right": "Vertical axis of symmetry",
+  "image": "doughof/p152.gif"
+ },
+ {
+  "num": 153,
+  "page": "doughof/p153.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Predominance of curves and hook-like endings",
+  "right": "Predominance of straight lines and staple-like endings",
+  "image": "doughof/p153.gif"
+ },
+ {
+  "num": 154,
+  "page": "doughof/p154.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Wedged endings",
+  "right": "Rounded endings",
+  "image": "doughof/p154.gif"
+ },
+ {
+  "num": 155,
+  "page": "doughof/p155.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Curves are longer than straight lines",
+  "right": "Curves are shorter than straight lines",
+  "image": "doughof/p155.gif"
+ },
+ {
+  "num": 156,
+  "page": "doughof/p156.htm",
+  "designer": "D. R. Hofstadter",
+  "left": "Three spatially separated clusters",
+  "right": "Two spatially separated clusters",
+  "image": "doughof/p156.gif"
+ },
+ {
+  "num": 157,
+  "page": "foundal/p157.htm",
+  "designer": "H. E. Foundalis",
+  "left": "White background",
+  "right": "Black background",
+  "image": "foundal/p157.gif"
+ },
+ {
+  "num": 158,
+  "page": "foundal/p158.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Some slope",
+  "right": "Another slope",
+  "image": "foundal/p158.gif"
+ },
+ {
+  "num": 159,
+  "page": "foundal/p159.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Two clusters of 2+3, middle shape must be seen as rectangle",
+  "right": "Two clusters of 2+3, middle shape must be seen as piece of straight line",
+  "image": "foundal/p159.gif"
+ },
+ {
+  "num": 160,
+  "page": "foundal/p160.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Quadrilateral that is nearly a triangle",
+  "right": "Typical quadrilateral",
+  "image": "foundal/p160.gif"
+ },
+ {
+  "num": 161,
+  "page": "foundal/p161.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Midpoints are collinear",
+  "right": "Midpoints are not collinear",
+  "image": "foundal/p161.gif"
+ },
+ {
+  "num": 162,
+  "page": "foundal/p162.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Every other side, if extended, passes through one point",
+  "right": "Not so",
+  "image": "foundal/p162.gif"
+ },
+ {
+  "num": 163,
+  "page": "foundal/p163.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Line connecting small shapes does not intersect large one",
+  "right": "Line connecting small shapes intersects large one",
+  "image": "foundal/p163.gif"
+ },
+ {
+  "num": 164,
+  "page": "foundal/p164.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Number of objects is one less than sides",
+  "right": "Number of objects is one more than sides",
+  "image": "foundal/p164.gif"
+ },
+ {
+  "num": 165,
+  "page": "foundal/p165.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Line perpendicular to one side of the object",
+  "right": "Line parallel to one side of the object",
+  "image": "foundal/p165.gif"
+ },
+ {
+  "num": 166,
+  "page": "foundal/p166.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Two clusters of dots",
+  "right": "Three clusters of dots",
+  "image": "foundal/p166.gif"
+ },
+ {
+  "num": 167,
+  "page": "foundal/p167.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Every cluster has two clusters of dots",
+  "right": "Every cluster has three clusters of dots",
+  "image": "foundal/p167.gif"
+ },
+ {
+  "num": 168,
+  "page": "foundal/p168.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Bulky interior, if closed",
+  "right": "Narrow interior, if closed",
+  "image": "foundal/p168.gif"
+ },
+ {
+  "num": 169,
+  "page": "foundal/p169.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Two clusters of different numbers of elements",
+  "right": "Two clusters of equal number of elements",
+  "image": "foundal/p169.gif"
+ },
+ {
+  "num": 170,
+  "page": "foundal/p170.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Π -like shape",
+  "right": "X-like shape",
+  "image": "foundal/p170.gif"
+ },
+ {
+  "num": 171,
+  "page": "foundal/p171.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Angle bisectors meet at the incenter",
+  "right": "Perpendicular bisectors meet at the orthocenter",
+  "image": "foundal/p171.gif"
+ },
+ {
+  "num": 172,
+  "page": "foundal/p172.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Radially symmetric",
+  "right": "Not radially symmetric",
+  "image": "foundal/p172.gif"
+ },
+ {
+  "num": 173,
+  "page": "foundal/p173.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Small variance of slopes",
+  "right": "Large variance of slopes",
+  "image": "foundal/p173.gif"
+ },
+ {
+  "num": 174,
+  "page": "foundal/p174.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Convex central interior",
+  "right": "Concave central interior",
+  "image": "foundal/p174.gif"
+ },
+ {
+  "num": 175,
+  "page": "foundal/p175.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Small object can glide in the bay",
+  "right": "Small object cannot glide in the bay",
+  "image": "foundal/p175.gif"
+ },
+ {
+  "num": 176,
+  "page": "foundal/p176.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Line that connects dots avoiding obstacles is short",
+  "right": "Line that connects dots avoiding obstacles is long",
+  "image": "foundal/p176.gif"
+ },
+ {
+  "num": 177,
+  "page": "foundal/p177.htm",
+  "designer": "H. E. Foundalis",
+  "left": "All interiors are convex",
+  "right": "At least one concave interior",
+  "image": "foundal/p177.gif"
+ },
+ {
+  "num": 178,
+  "page": "foundal/p178.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Center of circle in triangle perpendicular to the other two",
+  "right": "Not so",
+  "image": "foundal/p178.gif"
+ },
+ {
+  "num": 179,
+  "page": "foundal/p179.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Object thinner at top",
+  "right": "Object thicker at top",
+  "image": "foundal/p179.gif"
+ },
+ {
+  "num": 180,
+  "page": "foundal/p180.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Black region narrows at the boundary or black/white",
+  "right": "Black region widens at the boundary or black/white",
+  "image": "foundal/p180.gif"
+ },
+ {
+  "num": 181,
+  "page": "foundal/p181.htm",
+  "designer": "H. E. Foundalis",
+  "left": "One concavity",
+  "right": "Two concavities",
+  "image": "foundal/p181.gif"
+ },
+ {
+  "num": 182,
+  "page": "foundal/p182.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Concave if proximal points are connected",
+  "right": "Convex if proximal points are connected",
+  "image": "foundal/p182.gif"
+ },
+ {
+  "num": 183,
+  "page": "foundal/p183.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Same curvature close to the middle alternative expression of the same idea: Tangent near the middle leaves curve on the same side",
+  "right": "Change of curvature close to the middle alternative expression of the same idea: Tangent near the middle leaves curve on opposite sides",
+  "image": "foundal/p183.gif"
+ },
+ {
+  "num": 184,
+  "page": "foundal/p184.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Curve is smooth close to the middle",
+  "right": "Curve zigzags close to the middle",
+  "image": "foundal/p184.gif"
+ },
+ {
+  "num": 185,
+  "page": "foundal/p185.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Curve with two complex parts",
+  "right": "Curve with three complex parts",
+  "image": "foundal/p185.gif"
+ },
+ {
+  "num": 186,
+  "page": "foundal/p186.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Object made of objects",
+  "right": "Object made of objects made of objects",
+  "image": "foundal/p186.gif"
+ },
+ {
+  "num": 187,
+  "page": "foundal/p187.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Sides of parts are one more than sides of whole",
+  "right": "Sides of parts are one less than sides of whole",
+  "image": "foundal/p187.gif"
+ },
+ {
+  "num": 188,
+  "page": "foundal/p188.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Shape of whole different from shape of parts",
+  "right": "Shape of whole same as shape of parts",
+  "image": "foundal/p188.gif"
+ },
+ {
+  "num": 189,
+  "page": "foundal/p189.htm",
+  "designer": "H. E. Foundalis",
+  "left": "All clusters are made of objects of the same texture",
+  "right": "Not all clusters are made of objects of the same texture",
+  "image": "foundal/p189.gif"
+ },
+ {
+  "num": 190,
+  "page": "foundal/p190.htm",
+  "designer": "H. E. Foundalis",
+  "left": "All connected objects have the same texture",
+  "right": "Some connected objects have different textures",
+  "image": "foundal/p190.gif"
+ },
+ {
+  "num": 191,
+  "page": "foundal/p191.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Orifice on the left",
+  "right": "Orifice on the right",
+  "image": "foundal/p191.gif"
+ },
+ {
+  "num": 192,
+  "page": "foundal/p192.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Elongated vertically",
+  "right": "Elongated horizontally",
+  "image": "foundal/p192.gif"
+ },
+ {
+  "num": 193,
+  "page": "foundal/p193.htm",
+  "designer": "H. E. Foundalis",
+  "left": "“Ghost” triangle",
+  "right": "“Ghost” rectangle",
+  "image": "foundal/p193.gif"
+ },
+ {
+  "num": 194,
+  "page": "foundal/p194.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Background is a parallelogram",
+  "right": "Background is a triangle",
+  "image": "foundal/p194.gif"
+ },
+ {
+  "num": 195,
+  "page": "foundal/p195.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Bottom object in front of top objects in 3-D",
+  "right": "Bottom object behind top objects in 3-D",
+  "image": "foundal/p195.gif"
+ },
+ {
+  "num": 196,
+  "page": "foundal/p196.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Light-colored texture",
+  "right": "Dark-colored texture",
+  "image": "foundal/p196.gif"
+ },
+ {
+  "num": 197,
+  "page": "foundal/p197.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Some style (font)",
+  "right": "Another style (font)",
+  "image": "foundal/p197.gif"
+ },
+ {
+  "num": 198,
+  "page": "foundal/p198.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Stays in alternative lower-level expression of the same idea: One end of the chain is inside the large shape",
+  "right": "Escapes alternative lower-level expression of the same idea: Both ends of the chain are outside the large shape",
+  "image": "foundal/p198.gif"
+ },
+ {
+  "num": 199,
+  "page": "foundal/p199.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Stays put alternative lower-level expression of the same idea: Vertical from barycenter intersects the base of the object",
+  "right": "Tumbles alternative lower-level expression of the same idea: Vertical from barycenter avoids the base of the object",
+  "image": "foundal/p199.gif"
+ },
+ {
+  "num": 200,
+  "page": "foundal/p200.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Bongard Problem with solution based on features",
+  "right": "Bongard Problem with solution based on numerosity",
+  "image": "foundal/p200.gif"
+ },
+ {
+  "num": 201,
+  "page": "insana/p201.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Two of the shapes make tiles along their border lines",
+  "right": "Not so",
+  "image": "insana/p201.gif"
+ },
+ {
+  "num": 202,
+  "page": "insana/p202.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Even number",
+  "right": "Odd number",
+  "image": "insana/p202.gif"
+ },
+ {
+  "num": 203,
+  "page": "insana/p203.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Prime number",
+  "right": "Composite number",
+  "image": "insana/p203.gif"
+ },
+ {
+  "num": 204,
+  "page": "insana/p204.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Five",
+  "right": "Four",
+  "image": "insana/p204.gif"
+ },
+ {
+  "num": 205,
+  "page": "insana/p205.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Two clusters of two elements each",
+  "right": "Not so",
+  "image": "insana/p205.gif"
+ },
+ {
+  "num": 206,
+  "page": "insana/p206.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Curve ends in a roughly up or down direction",
+  "right": "Curve ends in a roughly left or right direction",
+  "image": "insana/p206.gif"
+ },
+ {
+  "num": 207,
+  "page": "insana/p207.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Curve ends on the left part of the box",
+  "right": "Curve ends on the right part of the box",
+  "image": "insana/p207.gif"
+ },
+ {
+  "num": 208,
+  "page": "insana/p208.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "All curves spiral counterclockwise, starting from maximum curvature",
+  "right": "All curves spiral clockwise, starting from maximum curvature",
+  "image": "insana/p208.gif"
+ },
+ {
+  "num": 209,
+  "page": "insana/p209.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "No objects are centered at the center of the box",
+  "right": "One object is centered at the center of the box",
+  "image": "insana/p209.gif"
+ },
+ {
+  "num": 210,
+  "page": "insana/p210.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Part of at least one object is out of box",
+  "right": "All objects are within the box",
+  "image": "insana/p210.gif"
+ },
+ {
+  "num": 211,
+  "page": "insana/p211.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "More black than white",
+  "right": "More white than black",
+  "image": "insana/p211.gif"
+ },
+ {
+  "num": 212,
+  "page": "insana/p212.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "No dot is too far apart from another dot",
+  "right": "At least one dot is far apart from all other dots",
+  "image": "insana/p212.gif"
+ },
+ {
+  "num": 213,
+  "page": "insana/p213.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Curve intersects itself at the point of greatest curvature",
+  "right": "Not so",
+  "image": "insana/p213.gif"
+ },
+ {
+  "num": 214,
+  "page": "insana/p214.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "“Smiley face”",
+  "right": "Not a \"smiley face”",
+  "image": "insana/p214.gif"
+ },
+ {
+  "num": 215,
+  "page": "insana/p215.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "“Mouth” concave upwards",
+  "right": "“Mouth” convex up wards",
+  "image": "insana/p215.gif"
+ },
+ {
+  "num": 216,
+  "page": "insana/p216.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "“Ink tip” (non-homogeneous line)",
+  "right": "“Marker tip” (homogeneous line)",
+  "image": "insana/p216.gif"
+ },
+ {
+  "num": 217,
+  "page": "insana/p217.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Perfectly drawn lines",
+  "right": "Imperfectly drawn lines",
+  "image": "insana/p217.gif"
+ },
+ {
+  "num": 218,
+  "page": "insana/p218.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Something is missing in the sequence",
+  "right": "Nothing is missing in the sequence",
+  "image": "insana/p218.gif"
+ },
+ {
+  "num": 219,
+  "page": "insana/p219.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Parallel curves",
+  "right": "Non-parallel curves",
+  "image": "insana/p219.gif"
+ },
+ {
+  "num": 220,
+  "page": "insana/p220.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "One cluster",
+  "right": "Two clusters",
+  "image": "insana/p220.gif"
+ },
+ {
+  "num": 221,
+  "page": "insana/p221.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "No small square at the end of any curve alternatively: Curves with a 3-D feeling",
+  "right": "Curve ends at a small square alternatively: Flat (2-D) curves",
+  "image": "insana/p221.gif"
+ },
+ {
+  "num": 222,
+  "page": "insana/p222.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Border of black rectangle is incomplete",
+  "right": "Border of black rectangle is complete",
+  "image": "insana/p222.gif"
+ },
+ {
+  "num": 223,
+  "page": "insana/p223.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Large black region if completed is a circle",
+  "right": "Large black region if completed is an ellipse",
+  "image": "insana/p223.gif"
+ },
+ {
+  "num": 224,
+  "page": "insana/p224.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Diametrically opposite objects affect similarly the large black circular region",
+  "right": "Not so",
+  "image": "insana/p224.gif"
+ },
+ {
+  "num": 225,
+  "page": "insana/p225.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Low contrast alternative lower-level expression of the same idea: No fully black region",
+  "right": "High contrast alternative lower-level expression of the same idea: At least one fully black region",
+  "image": "insana/p225.gif"
+ },
+ {
+  "num": 226,
+  "page": "insana/p226.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "What comes out of black circle has a clockwise direction",
+  "right": "Not so",
+  "image": "insana/p226.gif"
+ },
+ {
+  "num": 227,
+  "page": "insana/p227.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Dots touch each other if and only if no large region touches the edges of the box",
+  "right": "Dots don't touch each other if and only if no large region touches the edges of the box",
+  "image": "insana/p227.gif"
+ },
+ {
+  "num": 228,
+  "page": "insana/p228.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "After rotating so that the longest line is horizontal, there is a “left arm” raised and a “weight” down",
+  "right": "After rotating so that the longest line is horizontal, there is a “left arm” down and a “weight” raised",
+  "image": "insana/p228.gif"
+ },
+ {
+  "num": 229,
+  "page": "insana/p229.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "When the objects are rotated and their dots are overlapped and eliminated, they form three-square-tall structures with columns of the same color",
+  "right": "Not so",
+  "image": "insana/p229.gif"
+ },
+ {
+  "num": 230,
+  "page": "insana/p230.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "The sum of vertices, line ends, and dots is 7",
+  "right": "Not so",
+  "image": "insana/p230.gif"
+ },
+ {
+  "num": 231,
+  "page": "insana/p231.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Five concavities",
+  "right": "Not five concavities",
+  "image": "insana/p231.gif"
+ },
+ {
+  "num": 232,
+  "page": "insana/p232.htm",
+  "designer": "Joseph A. L. Insana",
+  "left": "Box divided into six areas",
+  "right": "Box divided into four areas",
+  "image": "insana/p232.gif"
+ },
+ {
+  "num": 233,
+  "page": "shanahan/p233.htm",
+  "designer": "Peter Shanahan",
+  "left": "Lines plus triangles equal stars",
+  "right": "Lines minus triangles equal stars",
+  "image": "shanahan/p233.gif"
+ },
+ {
+  "num": 234,
+  "page": "shanahan/p234.htm",
+  "designer": "Peter Shanahan",
+  "left": "Circle falls by gravity on the right half of box if let loose",
+  "right": "Circle falls by gravity on the left half of box if let loose",
+  "image": "shanahan/p234.gif"
+ },
+ {
+  "num": 235,
+  "page": "shanahan/p235.htm",
+  "designer": "Peter Shanahan",
+  "left": "The “rope”, if extended, reaches the other ball",
+  "right": "The “rope”, if extended, does not reach the other ball",
+  "image": "shanahan/p235.gif"
+ },
+ {
+  "num": 236,
+  "page": "shanahan/p236.htm",
+  "designer": "Peter Shanahan",
+  "left": "Texture with stripy squiggle",
+  "right": "Texture with blotchy squiggle",
+  "image": "shanahan/p236.gif"
+ },
+ {
+  "num": 237,
+  "page": "shanahan/p237.htm",
+  "designer": "Peter Shanahan",
+  "left": "Upper central line appears shorter than lower central line",
+  "right": "Upper central line appears longer than lower central line",
+  "image": "shanahan/p237.gif"
+ },
+ {
+  "num": 238,
+  "page": "foundal/p238.htm",
+  "designer": "H. E. Foundalis",
+  "left": "C-like curves point to the same direction",
+  "right": "C-like curves point to opposite directions",
+  "image": "foundal/p238.gif"
+ },
+ {
+  "num": 239,
+  "page": "foundal/p239.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Straight line parallel to line joining the ends of curve alternatively: Sliding the straight line suitably can make a closed area",
+  "right": "Straight line perpendicular to line joining the ends of curve alternatively: Not so",
+  "image": "foundal/p239.gif"
+ },
+ {
+  "num": 240,
+  "page": "howells/p240.htm",
+  "designer": "Matthew J. Howells",
+  "left": "Straight line joining the curve ends does not cut the curve",
+  "right": "Straight line joining the curve ends intersects the curve",
+  "image": "howells/p240.gif"
+ },
+ {
+  "num": 241,
+  "page": "howells/p241.htm",
+  "designer": "Matthew J. Howells",
+  "left": "Circumference shorter than length of everything else",
+  "right": "Circumference longer than length of everything else",
+  "image": "howells/p241.gif"
+ },
+ {
+  "num": 242,
+  "page": "howells/p242.htm",
+  "designer": "Matthew J. Howells",
+  "left": "Convex hull is a square",
+  "right": "Convex hull is not a square",
+  "image": "howells/p242.gif"
+ },
+ {
+  "num": 243,
+  "page": "howells/p243.htm",
+  "designer": "Matthew J. Howells",
+  "left": "Triangle closer to box corner than any of the circles",
+  "right": "Not so",
+  "image": "howells/p243.gif"
+ },
+ {
+  "num": 244,
+  "page": "howells/p244.htm",
+  "designer": "Matthew J. Howells",
+  "left": "Scanning left-to-right, top-to-bottom, each filled box is separated from the next filled box by the same number of empty boxes",
+  "right": "Not so",
+  "image": "howells/p244.gif"
+ },
+ {
+  "num": 245,
+  "page": "rispoli/p245.htm",
+  "designer": "Carla Rispoli",
+  "left": "Can be completed to be made into a rectangle",
+  "right": "Cannot be completed to be made into a rectangle",
+  "image": "rispoli/p245.gif"
+ },
+ {
+  "num": 246,
+  "page": "rispoli/p246.htm",
+  "designer": "Carla Rispoli",
+  "left": "Equal numbers of straight lines and continuous curves",
+  "right": "Unequal numbers of straight lines and continuous curves",
+  "image": "rispoli/p246.gif"
+ },
+ {
+  "num": 247,
+  "page": "gunnarsson/p247.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Five straight or curved lines",
+  "right": "Not five straight or curved lines",
+  "image": "gunnarsson/p247.gif"
+ },
+ {
+  "num": 248,
+  "page": "gunnarsson/p248.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Dashed lines inside solid shape make an identical but slightly smaller shape, “parallel” to the one outside",
+  "right": "Not so",
+  "image": "gunnarsson/p248.gif"
+ },
+ {
+  "num": 249,
+  "page": "gunnarsson/p249.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Dashed lines form the same shape centered inside",
+  "right": "Not so",
+  "image": "gunnarsson/p249.gif"
+ },
+ {
+  "num": 250,
+  "page": "gunnarsson/p250.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Tetrahedron projected on the box plane alternative lower-level expression of the same idea: Four points interconnected with straight lines where one of the points might lie on an edge",
+  "right": "Not so",
+  "image": "gunnarsson/p250.gif"
+ },
+ {
+  "num": 251,
+  "page": "gunnarsson/p251.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Tetrahedron projected on the box plane",
+  "right": "Not so",
+  "image": "gunnarsson/p251.gif"
+ },
+ {
+  "num": 252,
+  "page": "gunnarsson/p252.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Impossible solid in 3-D",
+  "right": "Possible solid in 3-D",
+  "image": "gunnarsson/p252.gif"
+ },
+ {
+  "num": 253,
+  "page": "gunnarsson/p253.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Prime number solution without using the arithmetic concept of primality: It is impossible to create subgroups all of which have the same number of two-or-more identically shaped objects",
+  "right": "Composite number solution without using the arithmetic concept of primality: It is possible to create subgroups all of which have the same number of two-or-more identically shaped objects",
+  "image": "gunnarsson/p253.gif"
+ },
+ {
+  "num": 254,
+  "page": "gunnarsson/p254.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Circle and two vertices are collinear",
+  "right": "No two vertices and the circle are collinear",
+  "image": "gunnarsson/p254.gif"
+ },
+ {
+  "num": 255,
+  "page": "gunnarsson/p255.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Three pairs of parallel and non-collinear pieces of straight lines, each pair with a different slope",
+  "right": "Not so",
+  "image": "gunnarsson/p255.gif"
+ },
+ {
+  "num": 256,
+  "page": "gunnarsson/p256.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Each large circle closer to a small circle than a large one, and each small circle closer to a large one than a small one",
+  "right": "Not so",
+  "image": "gunnarsson/p256.gif"
+ },
+ {
+  "num": 257,
+  "page": "gunnarsson/p257.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "The distance from the center of the line to the bottom of the square is the same as the distance from the dot to the right edge of the square",
+  "right": "Not so",
+  "image": "gunnarsson/p257.gif"
+ },
+ {
+  "num": 258,
+  "page": "gunnarsson/p258.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Objects identical after mirroring horizontally",
+  "right": "Objects identical after mirroring vertically",
+  "image": "gunnarsson/p258.gif"
+ },
+ {
+  "num": 259,
+  "page": "gunnarsson/p259.htm",
+  "designer": "Andreas Gunnarsson",
+  "left": "Two identical overlapping objects of which the top is rotated slightly clockwise",
+  "right": "Not so",
+  "image": "gunnarsson/p259.gif"
+ },
+ {
+  "num": 260,
+  "page": "rispoli/p260.htm",
+  "designer": "Carla Rispoli",
+  "left": "Squares are either all empty or all contain something",
+  "right": "Not so",
+  "image": "rispoli/p260.gif"
+ },
+ {
+  "num": 261,
+  "page": "ihde/p261.htm",
+  "designer": "Michael Ihde",
+  "left": "Straight lines that join filled and outlined circles intersect",
+  "right": "Straight lines that join filled and outlined circles do not intersect",
+  "image": "ihde/p261.gif"
+ },
+ {
+  "num": 262,
+  "page": "barenbaum/p262.htm",
+  "designer": "Pablo Barenbaum",
+  "left": "Exactly one point where lines bend at an angle",
+  "right": "Not exactly one point where lines bend at an angle",
+  "image": "barenbaum/p262.gif"
+ },
+ {
+  "num": 263,
+  "page": "barenbaum/p263.htm",
+  "designer": "Pablo Barenbaum",
+  "left": "At least one ending edge is straight",
+  "right": "All ending edges are curved",
+  "image": "barenbaum/p263.gif"
+ },
+ {
+  "num": 264,
+  "page": "merse/p264.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Closed area",
+  "right": "No closed area",
+  "image": "merse/p264.gif"
+ },
+ {
+  "num": 265,
+  "page": "merse/p265.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Axis of symmetry",
+  "right": "No axis of symmetry",
+  "image": "merse/p265.gif"
+ },
+ {
+  "num": 266,
+  "page": "merse/p266.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "At least one touch or cross point",
+  "right": "No touch or cross point",
+  "image": "merse/p266.gif"
+ },
+ {
+  "num": 267,
+  "page": "merse/p267.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Odd number of straight line segments",
+  "right": "Even number of straight line segments",
+  "image": "merse/p267.gif"
+ },
+ {
+  "num": 268,
+  "page": "merse/p268.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Convex hull elongated vertically",
+  "right": "Convex hull elongated horizontally",
+  "image": "merse/p268.gif"
+ },
+ {
+  "num": 269,
+  "page": "merse/p269.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Center of symmetry",
+  "right": "No center of symmetry",
+  "image": "merse/p269.gif"
+ },
+ {
+  "num": 270,
+  "page": "merse/p270.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Only vertical or horizontal lines",
+  "right": "Neither vertical nor horizontal lines",
+  "image": "merse/p270.gif"
+ },
+ {
+  "num": 271,
+  "page": "merse/p271.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Can be hand-written without raising the pen",
+  "right": "Cannot be hand-written without raising the pen",
+  "image": "merse/p271.gif"
+ },
+ {
+  "num": 272,
+  "page": "merse/p272.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Convex hull is a triangle",
+  "right": "Convex hull is a quadrilateral",
+  "image": "merse/p272.gif"
+ },
+ {
+  "num": 273,
+  "page": "merse/p273.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Stays put",
+  "right": "Tumbles",
+  "image": "merse/p273.gif"
+ },
+ {
+  "num": 274,
+  "page": "merse/p274.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Notch from above (holds poured water)",
+  "right": "No notch from above (does not hold poured water)",
+  "image": "merse/p274.gif"
+ },
+ {
+  "num": 275,
+  "page": "merse/p275.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Straight line joining the ends does not intersect the object",
+  "right": "Straight line joining the ends intersects the object",
+  "image": "merse/p275.gif"
+ },
+ {
+  "num": 276,
+  "page": "merse/p276.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "At least one endpoint",
+  "right": "No endpoints",
+  "image": "merse/p276.gif"
+ },
+ {
+  "num": 277,
+  "page": "merse/p277.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "One object",
+  "right": "Two or more objects",
+  "image": "merse/p277.gif"
+ },
+ {
+  "num": 278,
+  "page": "merse/p278.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "Shorter on the left, taller on the right",
+  "right": "Taller on the left, shorter on the right",
+  "image": "merse/p278.gif"
+ },
+ {
+  "num": 279,
+  "page": "merse/p279.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "The left part has more pixels than the right part",
+  "right": "The left part has fewer pixels than the right part",
+  "image": "merse/p279.gif"
+ },
+ {
+  "num": 280,
+  "page": "merse/p280.htm",
+  "designer": "Merse E. Gáspár",
+  "left": "The left part is wider than the right part",
+  "right": "The left part is narrower than the right part",
+  "image": "merse/p280.gif"
+ },
+ {
+  "num": 281,
+  "page": "joon/p281.htm",
+  "designer": "Yoon, Sang-Joon and his Korean high-school students",
+  "left": "Equal number of horizontal and vertical lines",
+  "right": "Unequal number of horizontal and vertical lines",
+  "image": "joon/p281.png"
+ },
+ {
+  "num": 282,
+  "page": "joon/p282.htm",
+  "designer": "Yoon, Sang-Joon and his Korean high-school students",
+  "left": "Shape of black region same as overall shape of object",
+  "right": "Shape of black region different from overall shape of object",
+  "image": "joon/p282.png"
+ },
+ {
+  "num": 283,
+  "page": "joon/p283.htm",
+  "designer": "Yoon, Sang-Joon and his Korean high-school students",
+  "left": "Rectangle left after tiling all black shapes into empty square",
+  "right": "Triangle left after tiling all black shapes into empty square",
+  "image": "joon/p283.png"
+ },
+ {
+  "num": 284,
+  "page": "lewis/p284.htm",
+  "designer": "“Lewis” *",
+  "left": "Half of the square is filled",
+  "right": "Either more or less than half of the square is filled",
+  "image": "lewis/p284.png"
+ },
+ {
+  "num": 285,
+  "page": "lewis/p285.htm",
+  "designer": "“Lewis” *",
+  "left": "The centers (“barycenters”) of the objects are collinear",
+  "right": "The centers (“barycenters”) of the objects are not collinear",
+  "image": "lewis/p285.png"
+ },
+ {
+  "num": 286,
+  "page": "lewis/p286.htm",
+  "designer": "“Lewis” *",
+  "left": "Decreasing in size from top to bottom",
+  "right": "Increasing in size from top to bottom",
+  "image": "lewis/p286.png"
+ },
+ {
+  "num": 287,
+  "page": "lewis/p287.htm",
+  "designer": "“Lewis” *",
+  "left": "“Rays” emanating from a central point alternative lower-level expression of the same idea: Altitudes of isosceles triangles meet at a point if extended from top to base",
+  "right": "Not so",
+  "image": "lewis/p287.png"
+ },
+ {
+  "num": 288,
+  "page": "lewis/p288.htm",
+  "designer": "“Lewis” *",
+  "left": "The sum of the ratios of the filled areas is 1",
+  "right": "The sum of the ratios of the filled areas is other than 1",
+  "image": "lewis/p288.png"
+ },
+ {
+  "num": 289,
+  "page": "lewis/p289.htm",
+  "designer": "“Lewis” *",
+  "left": "Shapes, if tiled up properly, form a square",
+  "right": "Shapes cannot form a square no matter how they are tiled",
+  "image": "lewis/p289.png"
+ },
+ {
+  "num": 290,
+  "page": "lewis/p290.htm",
+  "designer": "“Lewis” *",
+  "left": "If any non-nosed faces exist, they are happy if and only if happy nosed faces exist as well",
+  "right": "Not so",
+  "image": "lewis/p290.png"
+ },
+ {
+  "num": 291,
+  "page": "lewis/p291.htm",
+  "designer": "“Lewis” *",
+  "left": "The shapes in the large square never appear outside of it",
+  "right": "At least one shape in the large square appears outside of it",
+  "image": "lewis/p291.png"
+ },
+ {
+  "num": 292,
+  "page": "lewis/p292.htm",
+  "designer": "“Lewis” *",
+  "left": "Angle made by shapes with vertex at square is not acute",
+  "right": "Angle made by shapes with vertex at square is acute",
+  "image": "lewis/p292.png"
+ },
+ {
+  "num": 293,
+  "page": "lewis/p293.htm",
+  "designer": "“Lewis” *",
+  "left": "Square divided into four areas of the same size and shape",
+  "right": "Not so",
+  "image": "lewis/p293.png"
+ },
+ {
+  "num": 294,
+  "page": "lewis/p294.htm",
+  "designer": "“Lewis” *",
+  "left": "The two points are reachable through a path",
+  "right": "The two points are unreachable by any path",
+  "image": "lewis/p294.png"
+ },
+ {
+  "num": 295,
+  "page": "lewis/p295.htm",
+  "designer": "“Lewis” *",
+  "left": "Line joins large and small square",
+  "right": "Line joins the two middle-sized squares",
+  "image": "lewis/p295.png"
+ },
+ {
+  "num": 296,
+  "page": "lewis/p296.htm",
+  "designer": "“Lewis” *",
+  "left": "All three sizes are present",
+  "right": "Only two of the three sizes present",
+  "image": "lewis/p296.png"
+ },
+ {
+  "num": 297,
+  "page": "lewis/p297.htm",
+  "designer": "“Lewis” *",
+  "left": "“Ghost shape” is square",
+  "right": "“Ghost shape” is rectangular",
+  "image": "lewis/p297.png"
+ },
+ {
+  "num": 298,
+  "page": "lewis/p298.htm",
+  "designer": "“Lewis” *",
+  "left": "One of the two small squares is near the lower-right corner",
+  "right": "One of the two small squares is near the upper-right corner",
+  "image": "lewis/p298.png"
+ },
+ {
+  "num": 299,
+  "page": "lewis/p299.htm",
+  "designer": "“Lewis” *",
+  "left": "Lines if slightly extended make up a regular polygon",
+  "right": "Lines if slightly extended cannot make up a regular polygon",
+  "image": "lewis/p299.png"
+ },
+ {
+  "num": 300,
+  "page": "foundal/p300.htm",
+  "designer": "H. E. Foundalis",
+  "left": "Acceleration and deceleration",
+  "right": "Constant speed",
+  "boxes": [
+   "foundal/p300_1A.gif",
+   "foundal/p300_1B.gif",
+   "foundal/p300_1C.gif",
+   "foundal/p300_1D.gif",
+   "foundal/p300_1E.gif",
+   "foundal/p300_1F.gif",
+   "foundal/p300_2A.gif",
+   "foundal/p300_2B.gif",
+   "foundal/p300_2C.gif",
+   "foundal/p300_2D.gif",
+   "foundal/p300_2E.gif",
+   "foundal/p300_2F.gif"
+  ]
+ },
+ {
+  "num": 301,
+  "page": "lewis/p301.htm",
+  "designer": "“Lewis” *",
+  "left": "Large and medium-sized square, the latter can be hidden",
+  "right": "Large and small-sized square, the latter can be hidden",
+  "image": "lewis/p301.png"
+ },
+ {
+  "num": 302,
+  "page": "lewis/p302.htm",
+  "designer": "“Lewis” *",
+  "left": "Collinear objects, of which the 3rd is moved elsewhere",
+  "right": "Collinear objects, of which the 2nd/4th is moved elsewhere",
+  "image": "lewis/p302.png"
+ },
+ {
+  "num": 303,
+  "page": "lewis/p303.htm",
+  "designer": "“Lewis” *",
+  "left": "Three objects are identical, the fourth differs",
+  "right": "Not so",
+  "image": "lewis/p303.png"
+ },
+ {
+  "num": 304,
+  "page": "lewis/p304.htm",
+  "designer": "“Lewis” *",
+  "left": "At least one (interior or exterior) right angle",
+  "right": "No right angle (either interior or exterior)",
+  "image": "lewis/p304.png"
+ },
+ {
+  "num": 305,
+  "page": "lewis/p305.htm",
+  "designer": "“Lewis” *",
+  "left": "Shapes identical after rotation",
+  "right": "Shapes identical after rotation and mirroring",
+  "image": "lewis/p305.png"
+ },
+ {
+  "num": 306,
+  "page": "lewis/p306.htm",
+  "designer": "“Lewis” *",
+  "left": "Ratio of inside to outside identical shapes is constant",
+  "right": "Not so",
+  "image": "lewis/p306.png"
+ },
+ {
+  "num": 307,
+  "page": "lewis/p307.htm",
+  "designer": "“Lewis” *",
+  "left": "Barycenter of each cluster of dots near a vertex alternative: Three or more small clusters of dots",
+  "right": "Not so",
+  "image": "lewis/p307.png"
+ },
+ {
+  "num": 308,
+  "page": "lewis/p308.htm",
+  "designer": "“Lewis” *",
+  "left": "Three or more small clusters of dots",
+  "right": "Not so",
+  "image": "lewis/p308.png"
+ },
+ {
+  "num": 309,
+  "page": "lewis/p309.htm",
+  "designer": "“Lewis” *",
+  "left": "Ball touches curve at a point of local minimum downwards",
+  "right": "Ball touches curve at a point of local maximum upwards",
+  "image": "lewis/p309.png"
+ },
+ {
+  "num": 310,
+  "page": "lewis/p310.htm",
+  "designer": "“Lewis” *",
+  "left": "Enclosed square “repelled” by the outside squares, closest to the side of the enclosing square that's farthest from the common center of the outside squares.",
+  "right": "Enclosed square “attracted” by the outside squares, closest to the side of the enclosing square that's closest to the common center of the outside squares.",
+  "image": "lewis/p310.png"
+ },
+ {
+  "num": 311,
+  "page": "stepo/p311.htm",
+  "designer": "Jakub Štepo",
+  "left": "Number of sides – number of pluses = 3",
+  "right": "Number of sides – number of pluses = 4",
+  "image": "stepo/p311.png"
+ },
+ {
+  "num": 312,
+  "page": "stepo/p312.htm",
+  "designer": "Jakub Štepo",
+  "left": "Lines intersect within the box",
+  "right": "Lines intersect out of the box",
+  "image": "stepo/p312.png"
+ },
+ {
+  "num": 313,
+  "page": "stepo/p313.htm",
+  "designer": "Jakub Štepo",
+  "left": "Closed curves clockwise, open curves counterclockwise",
+  "right": "Closed curves counterclockwise, open curves clockwise",
+  "image": "stepo/p313.png"
+ },
+ {
+  "num": 314,
+  "page": "stepo/p314.htm",
+  "designer": "Jakub Štepo",
+  "left": "Long distance between the marked locations",
+  "right": "Short distance between the marked locations",
+  "image": "stepo/p314.png"
+ },
+ {
+  "num": 315,
+  "page": "stepo/p315.htm",
+  "designer": "Jakub Štepo",
+  "left": "One area unreachable by the marked locations",
+  "right": "All areas reachable by the marked locations",
+  "image": "stepo/p315.png"
+ },
+ {
+  "num": 316,
+  "page": "stepo/p316.htm",
+  "designer": "Jakub Štepo",
+  "left": "At least one path is a cycle",
+  "right": "No path is a cycle",
+  "image": "stepo/p316.png"
+ },
+ {
+  "num": 317,
+  "page": "fairbanks/p317.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Number of enclosed dots proportional to the circle size",
+  "right": "Not so",
+  "image": "fairbanks/p317.gif"
+ },
+ {
+  "num": 318,
+  "page": "fairbanks/p318.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The numbers of dots are in sequence",
+  "right": "Not so",
+  "image": "fairbanks/p318.gif"
+ },
+ {
+  "num": 319,
+  "page": "fairbanks/p319.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The number of dots in one cluster is a multiple of the other",
+  "right": "Not so",
+  "image": "fairbanks/p319.gif"
+ },
+ {
+  "num": 320,
+  "page": "fairbanks/p320.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The numbers of dots in the two clusters are approximately equal",
+  "right": "The numbers of dots in the two clusters differ a lot",
+  "image": "fairbanks/p320.gif"
+ },
+ {
+  "num": 321,
+  "page": "fairbanks/p321.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Small round object unreachable from the border of the box",
+  "right": "Small round object reachable from the border of the box",
+  "image": "fairbanks/p321.gif"
+ },
+ {
+  "num": 322,
+  "page": "fairbanks/p322.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "One outer outline",
+  "right": "More than one outer outline",
+  "image": "fairbanks/p322.gif"
+ },
+ {
+  "num": 323,
+  "page": "fairbanks/p323.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Jigsaw puzzle pieces can be assembled into a square",
+  "right": "Jigsaw puzzle pieces cannot be assembled into a square",
+  "image": "fairbanks/p323.gif"
+ },
+ {
+  "num": 324,
+  "page": "fairbanks/p324.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Left shapes can be placed on top of each other to make right shape",
+  "right": "Not so",
+  "image": "fairbanks/p324.gif"
+ },
+ {
+  "num": 325,
+  "page": "fairbanks/p325.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Left shapes can combine by symmetric difference (“xor” logical operator) to make right shape",
+  "right": "Left shapes can combine by intersection (“and” logical operator) to make right shape",
+  "image": "fairbanks/p325.gif"
+ },
+ {
+  "num": 326,
+  "page": "fairbanks/p326.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Straight line tangent to circle",
+  "right": "Straight line not tangent to circle",
+  "image": "fairbanks/p326.gif"
+ },
+ {
+  "num": 327,
+  "page": "fairbanks/p327.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Straight line tangent to curve",
+  "right": "Straight line not tangent to curve",
+  "image": "fairbanks/p327.gif"
+ },
+ {
+  "num": 328,
+  "page": "fairbanks/p328.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "All sides are equal",
+  "right": "All angles are equal",
+  "image": "fairbanks/p328.gif"
+ },
+ {
+  "num": 329,
+  "page": "fairbanks/p329.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Regular polygon",
+  "right": "Not regular polygon",
+  "image": "fairbanks/p329.gif"
+ },
+ {
+  "num": 330,
+  "page": "fairbanks/p330.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "1-D (line drawing, locally straight line)",
+  "right": "2-D",
+  "image": "fairbanks/p330.gif"
+ },
+ {
+  "num": 331,
+  "page": "fairbanks/p331.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "2-D (surface, locally flat)",
+  "right": "3-D",
+  "image": "fairbanks/p331.gif"
+ },
+ {
+  "num": 332,
+  "page": "fairbanks/p332.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Transparent solid",
+  "right": "Opaque solid",
+  "image": "fairbanks/p332.gif"
+ },
+ {
+  "num": 333,
+  "page": "fairbanks/p333.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Platonic solid (regular polyhedron)",
+  "right": "Not a platonic solid",
+  "image": "fairbanks/p333.gif"
+ },
+ {
+  "num": 334,
+  "page": "fairbanks/p334.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Odd number of dots",
+  "right": "Even number of dots",
+  "image": "fairbanks/p334.gif"
+ },
+ {
+  "num": 335,
+  "page": "fairbanks/p335.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Tessellates the plane",
+  "right": "Does not tessellate the plane",
+  "image": "fairbanks/p335.gif"
+ },
+ {
+  "num": 336,
+  "page": "fairbanks/p336.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "One gear turns all",
+  "right": "No gear turns all",
+  "image": "fairbanks/p336.gif"
+ },
+ {
+  "num": 337,
+  "page": "fairbanks/p337.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Black is below upward slopes",
+  "right": "Black is below downward slopes",
+  "image": "fairbanks/p337.gif"
+ },
+ {
+  "num": 338,
+  "page": "fairbanks/p338.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "High approximate similarity",
+  "right": "Low approximate similarity",
+  "image": "fairbanks/p338.gif"
+ },
+ {
+  "num": 339,
+  "page": "fairbanks/p339.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Union of left sets is right set",
+  "right": "Intersection of left sets is right set",
+  "image": "fairbanks/p339.gif"
+ },
+ {
+  "num": 340,
+  "page": "fairbanks/p340.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Regular star polygons that can be traced vertex-to-vertex in a continuous fashion",
+  "right": "Not so",
+  "image": "fairbanks/p340.gif"
+ },
+ {
+  "num": 341,
+  "page": "fairbanks/p341.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Strictly increasing or strictly decreasing border line",
+  "right": "Both increasing and decreasing border line",
+  "image": "fairbanks/p341.gif"
+ },
+ {
+  "num": 342,
+  "page": "fairbanks/p342.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Exactly one axis of symmetry",
+  "right": "Either zero or more than one axis of symmetry",
+  "image": "fairbanks/p342.gif"
+ },
+ {
+  "num": 343,
+  "page": "fairbanks/p343.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "No two shapes are the same",
+  "right": "At least two shapes are the same",
+  "image": "fairbanks/p343.gif"
+ },
+ {
+  "num": 344,
+  "page": "fairbanks/p344.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Shape can tile with itself so as to create a parallelogram",
+  "right": "Shape cannot tile with itself so as to create a parallelogram",
+  "image": "fairbanks/p344.gif"
+ },
+ {
+  "num": 345,
+  "page": "fairbanks/p345.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Intersection of circle and square",
+  "right": "Union of circle and square",
+  "image": "fairbanks/p345.gif"
+ },
+ {
+  "num": 346,
+  "page": "fairbanks/p346.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Object on the right fits in category on the left",
+  "right": "Object on the right does not fit in category on the left",
+  "image": "fairbanks/p346.gif"
+ },
+ {
+  "num": 347,
+  "page": "fairbanks/p347.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "No pattern (variety of shapes)",
+  "right": "All shapes have something in common",
+  "image": "fairbanks/p347.gif"
+ },
+ {
+  "num": 348,
+  "page": "fairbanks/p348.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Shape on the right is the convex hull of shape on the left",
+  "right": "Not so",
+  "image": "fairbanks/p348.gif"
+ },
+ {
+  "num": 349,
+  "page": "fairbanks/p349.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "One object does not belong to the category of the rest",
+  "right": "All objects form one category",
+  "image": "fairbanks/p349.gif"
+ },
+ {
+  "num": 350,
+  "page": "fairbanks/p350.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Some quantity keeps increasing from left to right",
+  "right": "Not so",
+  "image": "fairbanks/p350.gif"
+ },
+ {
+  "num": 351,
+  "page": "fairbanks/p351.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Discrete quantity",
+  "right": "Continuous quantity",
+  "image": "fairbanks/p351.gif"
+ },
+ {
+  "num": 352,
+  "page": "fairbanks/p352.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Quantity has no lower bound",
+  "right": "Quantity has lower bound",
+  "image": "fairbanks/p352.gif"
+ },
+ {
+  "num": 353,
+  "page": "fairbanks/p353.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Increasing quantity may loop back to starting value",
+  "right": "Increasing quantity cannot loop back to starting value",
+  "image": "fairbanks/p353.gif"
+ },
+ {
+  "num": 354,
+  "page": "fairbanks/p354.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Angular quantity",
+  "right": "Infinitely increasing quantity",
+  "image": "fairbanks/p354.gif"
+ },
+ {
+  "num": 355,
+  "page": "fairbanks/p355.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Fractal iteration based on 2-D (shapes)",
+  "right": "Fractal iteration based on 1-D (lines)",
+  "image": "fairbanks/p355.gif"
+ },
+ {
+  "num": 356,
+  "page": "fairbanks/p356.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Object at lower-right fits as n -th item in the top row of objects, where n is the number of dots at lower-left",
+  "right": "Not so",
+  "image": "fairbanks/p356.gif"
+ },
+ {
+  "num": 357,
+  "page": "fairbanks/p357.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Decelerating change in quantity, left-to-right",
+  "right": "Accelerating change in quantity, left-to-right",
+  "image": "fairbanks/p357.gif"
+ },
+ {
+  "num": 358,
+  "page": "fairbanks/p358.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The circles will collide if the arrows are their velocities",
+  "right": "The circles will not collide if the arrows are their velocities",
+  "image": "fairbanks/p358.gif"
+ },
+ {
+  "num": 359,
+  "page": "fairbanks/p359.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Random arrangement of dots",
+  "right": "Non-random (patterned) arrangement of dots",
+  "image": "fairbanks/p359.gif"
+ },
+ {
+  "num": 360,
+  "page": "fairbanks/p360.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Order is high (low entropy)",
+  "right": "Order is low (high entropy)",
+  "image": "fairbanks/p360.gif"
+ },
+ {
+  "num": 361,
+  "page": "fairbanks/p361.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Analogy makes sense",
+  "right": "Analogy does not make sense",
+  "image": "fairbanks/p361.gif"
+ },
+ {
+  "num": 362,
+  "page": "fairbanks/p362.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Choice that solves the analogy exists",
+  "right": "Choice that solves the analogy does not exist",
+  "image": "fairbanks/p362.gif"
+ },
+ {
+  "num": 363,
+  "page": "fairbanks/p363.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Counterclockwise along the curve following the arrow",
+  "right": "Clockwise along the curve following the arrow",
+  "image": "fairbanks/p363.gif"
+ },
+ {
+  "num": 364,
+  "page": "fairbanks/p364.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Two clearly separable groups",
+  "right": "No clearly separable groups",
+  "image": "fairbanks/p364.gif"
+ },
+ {
+  "num": 365,
+  "page": "fairbanks/p365.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Two independent quantities changing simultaneously",
+  "right": "A single quantity is changing",
+  "image": "fairbanks/p365.gif"
+ },
+ {
+  "num": 366,
+  "page": "fairbanks/p366.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "White dot is at center of mass",
+  "right": "White dot is not at center of mass",
+  "image": "fairbanks/p366.gif"
+ },
+ {
+  "num": 367,
+  "page": "fairbanks/p367.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Center of mass within the black area of the shape",
+  "right": "Center of mass out of the black area of the shape",
+  "image": "fairbanks/p367.gif"
+ },
+ {
+  "num": 368,
+  "page": "fairbanks/p368.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "There is a point that can “see” (in straight lines) all points",
+  "right": "There is no point that can “see” (in straight lines) all points",
+  "image": "fairbanks/p368.gif"
+ },
+ {
+  "num": 369,
+  "page": "fairbanks/p369.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Pairs of points (small white circles) on one curve can be glued together to make the other curve",
+  "right": "Not so",
+  "image": "fairbanks/p369.gif"
+ },
+ {
+  "num": 370,
+  "page": "fairbanks/p370.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Gluing sides with the same symbols makes a sphere",
+  "right": "Gluing sides with the same symbols makes a torus",
+  "image": "fairbanks/p370.gif"
+ },
+ {
+  "num": 371,
+  "page": "fairbanks/p371.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Net (folding along edges can make a 3D solid)",
+  "right": "No net",
+  "image": "fairbanks/p371.gif"
+ },
+ {
+  "num": 372,
+  "page": "fairbanks/p372.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Object belongs to the left-hand side category",
+  "right": "Object belongs to the right-hand side category",
+  "image": "fairbanks/p372.gif"
+ },
+ {
+  "num": 373,
+  "page": "fairbanks/p373.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Intersection (logical conjunction)",
+  "right": "Union (logical disjunction)",
+  "image": "fairbanks/p373.gif"
+ },
+ {
+  "num": 374,
+  "page": "fairbanks/p374.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Simple object",
+  "right": "Complex object",
+  "image": "fairbanks/p374.gif"
+ },
+ {
+  "num": 375,
+  "page": "fairbanks/p375.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Representationally uniform",
+  "right": "Representationally non-uniform",
+  "image": "fairbanks/p375.gif"
+ },
+ {
+  "num": 376,
+  "page": "fairbanks/p376.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "A “chess” piece moving as shown may reach every square",
+  "right": "Not so",
+  "image": "fairbanks/p376.gif"
+ },
+ {
+  "num": 377,
+  "page": "fairbanks/p377.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The two objects have similar representations",
+  "right": "The two objects have dissimilar representations",
+  "image": "fairbanks/p377.gif"
+ },
+ {
+  "num": 378,
+  "page": "fairbanks/p378.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The two objects are conceptually related",
+  "right": "The two objects are conceptually unrelated",
+  "image": "fairbanks/p378.gif"
+ },
+ {
+  "num": 379,
+  "page": "fairbanks/p379.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Complete set",
+  "right": "Incomplete set",
+  "image": "fairbanks/p379.gif"
+ },
+ {
+  "num": 380,
+  "page": "fairbanks/p380.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "The set indicated by the objects is finite",
+  "right": "The set indicated by the objects is infinite",
+  "image": "fairbanks/p380.gif"
+ },
+ {
+  "num": 381,
+  "page": "fairbanks/p381.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "Adding the top two waves yields the bottom wave",
+  "right": "Not so",
+  "image": "fairbanks/p381.gif"
+ },
+ {
+  "num": 382,
+  "page": "fairbanks/p382.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "No knot (“unknot”)",
+  "right": "Knot",
+  "image": "fairbanks/p382.gif"
+ },
+ {
+  "num": 383,
+  "page": "fairbanks/p383.htm",
+  "designer": "Aaron David Fairbanks",
+  "left": "When the shape is removed from the dots, the dots give enough information to place the shape back where it was",
+  "right": "Not so",
+  "image": "fairbanks/p383.gif"
+ },
+ {
+  "num": 384,
+  "page": "collins/p384.htm",
+  "designer": "Jago Collins",
+  "left": "Square number of dots",
+  "right": "Not a square number of dots",
+  "image": "collins/p384.gif"
+ },
+ {
+  "num": 385,
+  "page": "collins/p385.htm",
+  "designer": "Jago Collins",
+  "left": "Nets of cubes",
+  "right": "No nets of cubes",
+  "image": "collins/p385.gif"
+ },
+ {
+  "num": 386,
+  "page": "collins/p386.htm",
+  "designer": "Jago Collins",
+  "left": "Lower shape can be used as a tile to build the upper one",
+  "right": "Not so",
+  "image": "collins/p386.gif"
+ },
+ {
+  "num": 387,
+  "page": "collins/p387.htm",
+  "designer": "Jago Collins",
+  "left": "Dots can be shared equally between figures",
+  "right": "Dots cannot be shared equally between figures",
+  "image": "collins/p387.gif"
+ },
+ {
+  "num": 388,
+  "page": "collins/p388.htm",
+  "designer": "Jago Collins",
+  "left": "White dot can “see” (in straight lines) all black points",
+  "right": "White dot cannot “see” (in straight lines) all black points",
+  "image": "collins/p388.gif"
+ },
+ {
+  "num": 389,
+  "page": "collins/p389.htm",
+  "designer": "Jago Collins",
+  "left": "Loops are “entangled” (in 3-D)",
+  "right": "Loops can be separated (in 3-D)",
+  "image": "collins/p389.gif"
+ },
+ {
+  "num": 390,
+  "page": "collins/p390.htm",
+  "designer": "Jago Collins",
+  "left": "Each graph vertex is uniquely defined by its connections (the graph does not admit nontrivial automorphisms)",
+  "right": "The graph admits nontrivial automorphisms",
+  "image": "collins/p390.gif"
+ },
+ {
+  "num": 391,
+  "page": "collins/p391.htm",
+  "designer": "Jago Collins",
+  "left": "There exists en edge such that removing it yields two disconnected graphs (i.e., the minimum number of edges whose removal results in two disconnected graphs is 1)",
+  "right": "The minimum number of edges whose removal results in two disconnected graphs is 2",
+  "image": "collins/p391.gif"
+ },
+ {
+  "num": 392,
+  "page": "collins/p392.htm",
+  "designer": "Jago Collins",
+  "left": "Exponential increase",
+  "right": "Linear increase",
+  "image": "collins/p392.gif"
+ },
+ {
+  "num": 393,
+  "page": "collins/p393.htm",
+  "designer": "Jago Collins",
+  "left": "Correct",
+  "right": "Incorrect",
+  "image": "collins/p393.gif"
+ },
+ {
+  "num": 394,
+  "page": "collins/p394.htm",
+  "designer": "Jago Collins",
+  "left": "For each colored square only, there exists a path starting on it that covers each square of the figure exactly once",
+  "right": "There is no path that starts on a colored square and covers each square of the figure exactly once",
+  "image": "collins/p394.gif"
+ },
+ {
+  "num": 395,
+  "page": "foundal/p395.htm",
+  "designer": "Harry Foundalis",
+  "left": "Objects share a feature inside & outside of a closed curve",
+  "right": "Not so",
+  "image": "foundal/p395.gif"
+ },
+ {
+  "num": 396,
+  "page": "foundal/p396.htm",
+  "designer": "Harry Foundalis",
+  "left": "Objects share a feature in two regions of an open curve",
+  "right": "Not so",
+  "image": "foundal/p396.gif"
+ },
+ {
+  "num": 397,
+  "page": "foundal/p397.htm",
+  "designer": "Harry Foundalis",
+  "left": "Objects share a feature in & out of dot-made closed curve",
+  "right": "Not so",
+  "image": "foundal/p397.gif"
+ },
+ {
+  "num": 398,
+  "page": "foundal/p398.htm",
+  "designer": "Harry Foundalis",
+  "left": "Objects share a feature in spatially separated groups",
+  "right": "Not so",
+  "image": "foundal/p398.gif"
+ },
+ {
+  "num": 399,
+  "page": "foundal/p399.htm",
+  "designer": "Harry Foundalis",
+  "left": "Objects connected by dots share a feature",
+  "right": "Not so",
+  "image": "foundal/p399.gif"
+ },
+ {
+  "num": 400,
+  "page": "foundal/p400.htm",
+  "designer": "Harry Foundalis",
+  "left": "Inner objects from red to yellow; outer from green to violet",
+  "right": "Inner objects from green to violet; outer from red to yellow",
+  "image": "foundal/p400.gif"
+ },
+ {
+  "num": 401,
+  "page": "welling/p401.htm",
+  "designer": "Hans Welling",
+  "left": "Branches form right angles with stem",
+  "right": "Branches form acute angles with stem",
+  "image": "welling/p401.gif"
+ },
+ {
+  "num": 402,
+  "page": "welling/p402.htm",
+  "designer": "Hans Welling",
+  "left": "Branches have small curvature",
+  "right": "Branches have large curvature",
+  "image": "welling/p402.gif"
+ },
+ {
+  "num": 403,
+  "page": "welling/p403.htm",
+  "designer": "Hans Welling",
+  "left": "Straight stems",
+  "right": "Curved stems",
+  "image": "welling/p403.gif"
+ },
+ {
+  "num": 404,
+  "page": "welling/p404.htm",
+  "designer": "Unknown",
+  "left": "",
+  "right": "",
+  "image": "welling/p404.gif"
+ },
+ {
+  "num": 405,
+  "page": "welling/p405.htm",
+  "designer": "Hans Welling",
+  "left": "Branches and stems point rightward (“wind” from left)",
+  "right": "Branches and stems point leftward (“wind” from right)",
+  "image": "welling/p405.gif"
+ },
+ {
+  "num": 406,
+  "page": "welling/p406.htm",
+  "designer": "Hans Welling",
+  "left": "Stem grows upward (against “gravity”)",
+  "right": "Stem grows downward (“gravity” wins)",
+  "image": "welling/p406.gif"
+ },
+ {
+  "num": 407,
+  "page": "welling/p407.htm",
+  "designer": "Hans Welling",
+  "left": "Branches grow away from the stem",
+  "right": "Branches turn toward the stem",
+  "image": "welling/p407.gif"
+ },
+ {
+  "num": 408,
+  "page": "welling/p408.htm",
+  "designer": "Hans Welling",
+  "left": "Branches follow the curve of the stem",
+  "right": "Branches grow against the curve of the stem",
+  "image": "welling/p408.gif"
+ },
+ {
+  "num": 409,
+  "page": "welling/p409.htm",
+  "designer": "Hans Welling",
+  "left": "Stem curves left",
+  "right": "Stem curves right",
+  "image": "welling/p409.gif"
+ }
+]

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bongard Problems</title>
+<style>
+  :root { --bg: #000; --fg: #ddd; --dim: #888; --line: #444; }
+  body.light { --bg: #fff; --fg: #111; --dim: #666; --line: #bbb; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.5 Georgia, "Times New Roman", serif;
+    min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+    -webkit-tap-highlight-color: transparent;
+  }
+  header {
+    width: 100%; max-width: 760px; display: flex; align-items: baseline;
+    padding: 10px 16px 0;
+  }
+  header h1 { font-size: 18px; font-weight: normal; margin: 0; flex: 1; letter-spacing: 1px; }
+  main { width: 100%; max-width: 760px; padding: 8px 8px 24px; text-align: center; }
+  #board { touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+  body:not(.light) #board { filter: invert(1); }
+  #board img.single { width: 100%; height: auto; display: block; background: #fff; }
+  /* BP#300: two 2x3 pages of animated boxes, drawn like the composite board */
+  #board .grid {
+    background: #fff; display: flex; justify-content: center; gap: 6%;
+    padding: 2% 1%;
+  }
+  #board .page { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; width: 44%; }
+  #board .page img { width: 100%; height: auto; display: block; border: 1px solid #000; }
+  #meta { margin-top: 6px; color: var(--dim); font-size: 14px; }
+  #meta a { color: var(--dim); }
+  nav {
+    display: flex; align-items: center; justify-content: center;
+    gap: 14px; margin-top: 12px;
+  }
+  button {
+    background: none; color: var(--fg); border: 1px solid var(--line);
+    border-radius: 6px; font: inherit; padding: 6px 16px; cursor: pointer;
+  }
+  button:hover { border-color: var(--fg); }
+  #counter { min-width: 90px; border: none; text-decoration: underline dotted var(--dim); }
+  #jump { width: 70px; background: none; color: var(--fg); border: 1px solid var(--line);
+          border-radius: 6px; font: inherit; padding: 6px; text-align: center; }
+  #solution { margin-top: 14px; display: none; }
+  #solution.shown { display: flex; gap: 12px; justify-content: center; }
+  #solution div {
+    flex: 1; max-width: 320px; border: 1px solid var(--line);
+    border-radius: 6px; padding: 8px 12px; font-size: 15px;
+  }
+  footer {
+    margin-top: auto; padding: 12px 16px 16px; color: var(--dim);
+    font-size: 13px; text-align: center;
+  }
+  footer a { color: var(--dim); }
+</style>
+</head>
+<body>
+<header>
+  <h1>BONGARD PROBLEMS</h1>
+  <button id="theme" title="Invert colors" style="border:none;font-size:18px">☀</button>
+</header>
+<main>
+  <div id="board"></div>
+  <div id="meta"></div>
+  <nav>
+    <button id="prev" title="Previous (←, or swipe)">←</button>
+    <button id="counter" title="Jump to problem number"></button>
+    <button id="next" title="Next (→, or swipe)">→</button>
+    <button id="reveal">Show solution</button>
+  </nav>
+  <div id="solution"><div id="solLeft"></div><div id="solRight"></div></div>
+</main>
+<footer>
+  Problems from <a href="https://www.foundalis.com/res/bps/bpidx.htm">Harry
+  Foundalis' index of Bongard problems</a>; each problem belongs to its
+  designer. The first 100 are from M. M. Bongard's 1967 book <i>Pattern
+  Recognition</i>.
+</footer>
+<script>
+"use strict";
+// Where the problem images live. This page hotlinks foundalis.com rather
+// than re-hosting anything; if the viewer is hosted on foundalis.com
+// itself, set this to the path of the bps directory instead.
+const BASE = "https://www.foundalis.com/res/bps/";
+
+const $ = id => document.getElementById(id);
+let problems = [], pos = 0;
+
+function esc(s) {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+function solHtml(s) {
+  return esc(s).replace(/ \| alt: /g, "<br><span style='color:var(--dim)'>alt:</span> ");
+}
+
+function render() {
+  const p = problems[pos];
+  if (p.boxes) {
+    const page = half => "<div class='page'>" + p.boxes.slice(half * 6, half * 6 + 6)
+      .map(b => `<img src="${BASE + b}" alt="">`).join("") + "</div>";
+    $("board").innerHTML = `<div class="grid">${page(0)}${page(1)}</div>`;
+  } else {
+    $("board").innerHTML =
+      `<img class="single" src="${BASE + p.image}" alt="Bongard problem ${p.num}">`;
+  }
+  $("meta").innerHTML =
+    `<a href="${BASE + p.page}">BP #${p.num}</a> &nbsp;·&nbsp; ${esc(p.designer)}`;
+  $("counter").textContent = `${p.num} / ${problems.length}`;
+  $("solLeft").innerHTML = solHtml(p.left || "(no solution listed)");
+  $("solRight").innerHTML = solHtml(p.right || "(no solution listed)");
+  $("solution").classList.remove("shown");
+  $("reveal").textContent = "Show solution";
+  localStorage.setItem("bongard-pos", pos);
+  history.replaceState(null, "", "#" + p.num);
+  // Preload neighbors for snappy swiping.
+  for (const d of [1, -1, 2]) {
+    const q = problems[pos + d];
+    if (q && q.image) new Image().src = BASE + q.image;
+  }
+}
+
+function go(d) { pos = Math.min(problems.length - 1, Math.max(0, pos + d)); render(); }
+
+$("prev").onclick = () => go(-1);
+$("next").onclick = () => go(1);
+$("reveal").onclick = () => {
+  const shown = $("solution").classList.toggle("shown");
+  $("reveal").textContent = shown ? "Hide solution" : "Show solution";
+};
+$("theme").onclick = () => {
+  const light = document.body.classList.toggle("light");
+  $("theme").textContent = light ? "☾" : "☀";
+  localStorage.setItem("bongard-light", light ? "1" : "");
+};
+function counterClick() {
+  $("counter").outerHTML = `<input id="jump" type="number" min="1">`;
+  const j = $("jump");
+  j.focus();
+  const done = () => {
+    const n = problems.findIndex(p => p.num === +j.value);
+    j.outerHTML = `<button id="counter" title="Jump to problem number"></button>`;
+    $("counter").onclick = counterClick;
+    if (n >= 0) pos = n;
+    render();
+  };
+  j.onkeydown = e => { if (e.key === "Enter") done(); if (e.key === "Escape") { j.value = ""; done(); } };
+  j.onblur = done;
+}
+$("counter").onclick = counterClick;
+
+document.addEventListener("keydown", e => {
+  if (e.target.tagName === "INPUT") return;
+  if (e.key === "ArrowLeft") go(-1);
+  if (e.key === "ArrowRight") go(1);
+  if (e.key === "s") $("reveal").click();
+});
+
+let touchX = null, touchY = null;
+document.addEventListener("touchstart", e => {
+  touchX = e.touches[0].clientX; touchY = e.touches[0].clientY;
+}, { passive: true });
+document.addEventListener("touchend", e => {
+  if (touchX === null) return;
+  const dx = e.changedTouches[0].clientX - touchX;
+  const dy = e.changedTouches[0].clientY - touchY;
+  touchX = null;
+  if (Math.abs(dx) > 50 && Math.abs(dx) > 2 * Math.abs(dy)) go(dx < 0 ? 1 : -1);
+}, { passive: true });
+
+if (localStorage.getItem("bongard-light")) $("theme").click();
+
+fetch("problems.json").then(r => r.json()).then(data => {
+  problems = data;
+  const hashNum = +location.hash.slice(1);
+  const fromHash = problems.findIndex(p => p.num === hashNum);
+  pos = fromHash >= 0 ? fromHash
+      : Math.min(problems.length - 1, +localStorage.getItem("bongard-pos") || 0);
+  render();
+});
+</script>
+</body>
+</html>
