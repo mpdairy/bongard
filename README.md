@@ -4,6 +4,8 @@ A tiny Android app for swiping through Bongard problems — visual puzzles
 where six panels on the left share a rule that the six panels on the right
 break, and your job is to figure out the rule.
 
+**Try it in your browser: <https://mpdairy.github.io/bongard/>**
+
 <p align="center">
   <img src="docs/screenshot.jpeg" width="640" alt="Screenshot of the app showing a Bongard problem">
 </p>
@@ -45,6 +47,20 @@ build time) so it works fully offline:
   black-on-white.
 - Tap the "n / total" counter to jump straight to a problem number.
 - Works in portrait and landscape.
+
+## Web version
+
+`docs/` holds a browser version of the same viewer, served on GitHub Pages
+at <https://mpdairy.github.io/bongard/>. It's a single self-contained HTML
+file with no dependencies — swipe or use arrow keys, everything else works
+like the app. It hotlinks the problem images straight from foundalis.com
+rather than re-hosting them, so nothing of the collection is redistributed;
+only the solution index (`docs/problems.json`, regenerated with
+`python3 scraper/make_web.py`) lives here.
+
+If Harry Foundalis would like to host it on his own site, he's more than
+welcome to — it's a single file, and the `BASE` constant at the top of
+`docs/index.html` points wherever the images live.
 
 ## Install
 
