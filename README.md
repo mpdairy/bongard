@@ -5,7 +5,7 @@ where six panels on the left share a rule that the six panels on the right
 break, and your job is to figure out the rule.
 
 <p align="center">
-  <img src="docs/screenshot.png" width="320" alt="Screenshot of the app showing a Bongard problem">
+  <img src="docs/screenshot.jpeg" width="640" alt="Screenshot of the app showing a Bongard problem">
 </p>
 
 ## Credits
