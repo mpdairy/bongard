@@ -1,0 +1,18 @@
+# Build outputs
+build/
+.gradle/
+.kotlin/
+
+# Local config (SDK path etc.)
+local.properties
+
+# Scraped content — belongs to foundalis.com; regenerate with scraper/scrape.py
+app/src/main/assets/
+scraper/cache/
+
+__pycache__/
+
+# IDE / tooling
+.idea/
+.claude/
+*.iml
